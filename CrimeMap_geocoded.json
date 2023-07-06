@@ -1,0 +1,3533 @@
+[
+    {
+        "report_number": "2023-9004504",
+        "report_date_time": "Sat, May-20-2023 08:48",
+        "offense_date_time": "Sat, May-20-2023 00:00",
+        "offenses": [
+            "HARASSMENT"
+        ],
+        "offense_location": [
+            "1400 BLOCK BYERS LN, AUSTIN 78753",
+            "438",
+            "7",
+            "ED"
+        ],
+        "latitude": 30.379337777000284,
+        "longitude": -97.66141058173555
+    },
+    {
+        "report_number": "2023-9004504",
+        "report_date_time": "Sat, May-20-2023 08:48",
+        "offense_date_time": "Sat, May-20-2023 00:00",
+        "offenses": [
+            "HARASSMENT"
+        ],
+        "offense_location": [
+            "1400 BLOCK BYERS LN, AUSTIN 78753",
+            "438",
+            "7",
+            "ED"
+        ],
+        "latitude": 30.379337777000284,
+        "longitude": -97.66141058173555
+    },
+    {
+        "report_number": "2023-9004513",
+        "report_date_time": "Sat, May-20-2023 12:16",
+        "offense_date_time": "Sat, May-20-2023 00:00",
+        "offenses": [
+            "DEBIT CARD ABUSE"
+        ],
+        "offense_location": [
+            "9002 TEXAS OAKS DR, AUSTIN 78748",
+            "24.23",
+            "3",
+            "FR"
+        ],
+        "case_summary": "STOLEN",
+        "latitude": 30.17981669381666,
+        "longitude": -97.81278021346836
+    },
+    {
+        "report_number": "2023-9004518",
+        "report_date_time": "Sat, May-20-2023 13:55",
+        "offense_date_time": "Sat, May-20-2023 00:00",
+        "offenses": [
+            "THEFT"
+        ],
+        "offense_location": [
+            "1722 WOODWARD ST, AUSTIN 78741",
+            "23",
+            "2",
+            "HE"
+        ],
+        "case_summary": "STOLEN",
+        "latitude": 30.221170784032754,
+        "longitude": -97.74524795547656
+    },
+    {
+        "report_number": "2023-1400002",
+        "report_date_time": "Sat, May-20-2023 00:01",
+        "offense_date_time": "Sat, May-20-2023 00:01",
+        "offenses": [
+            "DOC FIGHTING",
+            "RESPONSE TO RESISTANCE REPORT"
+        ],
+        "offense_location": [
+            "403 E 6TH ST, Apt # B,AUSTIN 78701",
+            "11",
+            "2",
+            "GE"
+        ],
+        "arrestee_name": ": HILL, EDDIE III",
+        "arrestee_gender": "Male",
+        "arrestee_race": "Black",
+        "latitude": 30.267035204941898,
+        "longitude": -97.73923081523502
+    },
+    {
+        "report_number": "2023-1400010",
+        "report_date_time": "Sat, May-20-2023 00:03",
+        "offense_date_time": "Sat, May-20-2023 00:03",
+        "offenses": [
+            "LEVEL 4 RESPONSE TO RESISTANCE",
+            "AGG ASSAULT"
+        ],
+        "offense_location": [
+            "1501 E HOWARD LN, AUSTIN 78754",
+            "439",
+            "6",
+            "ED"
+        ],
+        "latitude": 30.40425364592453,
+        "longitude": -97.63993740324146
+    },
+    {
+        "report_number": "2023-1400021",
+        "report_date_time": "Sat, May-20-2023 00:12",
+        "offense_date_time": "Sat, May-20-2023 00:12",
+        "offenses": [
+            "CRASH/FAIL STOP AND RENDER AID",
+            "CRASH/LEAVE SCENE-NO SUSPECT"
+        ],
+        "offense_location": [
+            "7100 BLESSING AVE, AUSTIN 78752",
+            "434",
+            "1",
+            "ID"
+        ],
+        "latitude": 30.32784368391413,
+        "longitude": -97.69564490041878
+    },
+    {
+        "report_number": "2023-1400023",
+        "report_date_time": "Sat, May-20-2023 00:13",
+        "offense_date_time": "Sat, May-20-2023 00:13",
+        "offenses": [
+            "AGG ASLT STRANGLE/SUFFOCATE",
+            "RAPE"
+        ],
+        "offense_location": [
+            "7700 BLOCK MENCHACA RD, AUSTIN 78745",
+            "309",
+            "1",
+            "FR"
+        ],
+        "investigator_assigned": "AP7343 - VILLARREAL, LAUREN",
+        "arrestee_name": ": CHO, EVAN",
+        "arrestee_gender": "Male",
+        "arrestee_race": "White",
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-1400036",
+        "report_date_time": "Sat, May-20-2023 00:23",
+        "offense_date_time": "Sat, May-20-2023 00:23",
+        "offenses": [
+            "CRASH/LEAVING THE SCENE"
+        ],
+        "offense_location": [
+            "E RIVERSIDE DR / S PLEASANT VALLEY RD, AUSTIN 78741",
+            "23.24",
+            "3",
+            "HE"
+        ],
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-1400037",
+        "report_date_time": "Sat, May-20-2023 00:24",
+        "offense_date_time": "Sat, May-20-2023 00:24",
+        "offenses": [
+            "PUBLIC INTOXICATION"
+        ],
+        "offense_location": [
+            "161 W SLAUGHTER LN,",
+            "",
+            "",
+            ""
+        ],
+        "arrestee_name": ": HA, KHUYEN DONG",
+        "arrestee_gender": "Male",
+        "arrestee_race": "Asian",
+        "latitude": "30.1670069",
+        "longitude": "-97.7926409"
+    },
+    {
+        "report_number": "2023-1391639",
+        "report_date_time": "Sat, May-20-2023 00:35",
+        "offense_date_time": "Sat, May-20-2023 00:35",
+        "offenses": [
+            "CRASH/LEAVING THE SCENE"
+        ],
+        "offense_location": [
+            "700 LYDIA ST, AUSTIN 78702",
+            "9",
+            "2",
+            "CH"
+        ],
+        "latitude": 30.265022547839315,
+        "longitude": -97.72887201025588
+    },
+    {
+        "report_number": "2023-1391634",
+        "report_date_time": "Sat, May-20-2023 00:36",
+        "offense_date_time": "Sat, May-20-2023 00:36",
+        "offenses": [
+            "CRIMINAL TRESPASS NOTICE"
+        ],
+        "offense_location": [
+            "1500 RED RIVER ST, AUSTIN 78701",
+            "7",
+            "1",
+            "BA"
+        ],
+        "latitude": 30.275551215233907,
+        "longitude": -97.73443959095385
+    },
+    {
+        "report_number": "2023-1400060",
+        "report_date_time": "Sat, May-20-2023 00:36",
+        "offense_date_time": "Sat, May-20-2023 00:36",
+        "offenses": [
+            "DWI",
+            "UNLAWFUL CARRYING WEAPON"
+        ],
+        "offense_location": [
+            "1500 WEST AVE, AUSTIN 78701",
+            "7",
+            "2",
+            "BA"
+        ],
+        "arrestee_name": ": HERNANDEZ, MASON LANE",
+        "arrestee_gender": "Male",
+        "arrestee_race": "White",
+        "latitude": 30.279234934287363,
+        "longitude": -97.7472624083385
+    },
+    {
+        "report_number": "2023-1391625",
+        "report_date_time": "Sat, May-20-2023 00:54",
+        "offense_date_time": "Sat, May-20-2023 00:54",
+        "offenses": [
+            "TERRORISTIC THREAT"
+        ],
+        "offense_location": [
+            "6721 S CONGRESS AVE, AUSTIN 78745",
+            "24.22",
+            "3",
+            "FR"
+        ],
+        "latitude": 30.192489210396904,
+        "longitude": -97.77906576036479
+    },
+    {
+        "report_number": "2023-1400051",
+        "report_date_time": "Sat, May-20-2023 00:56",
+        "offense_date_time": "Sat, May-20-2023 00:56",
+        "offenses": [
+            "CRIMINAL TRESPASS NOTICE"
+        ],
+        "offense_location": [
+            "1660 E 51ST ST, AUSTIN 78723",
+            "21",
+            "5",
+            "ID"
+        ],
+        "latitude": 30.304272414059014,
+        "longitude": -97.69963539423418
+    },
+    {
+        "report_number": "2023-231400076",
+        "report_date_time": "Sat, May-20-2023 01:52",
+        "offense_date_time": "Sat, May-20-2023 01:00",
+        "offenses": [
+            "FAMILY DISTURBANCE"
+        ],
+        "offense_location": [
+            "1108 E 6TH ST, Apt # 308,AUSTIN 78702",
+            "9",
+            "1",
+            "CH"
+        ],
+        "latitude": 30.26470050868581,
+        "longitude": -97.7313946365589
+    },
+    {
+        "report_number": "2023-1400102",
+        "report_date_time": "Sat, May-20-2023 01:08",
+        "offense_date_time": "Sat, May-20-2023 01:08",
+        "offenses": [
+            "CRIMINAL TRESPASS NOTICE"
+        ],
+        "offense_location": [
+            "2963 MANOR RD, AUSTIN 78722",
+            "4",
+            "3",
+            "CH"
+        ],
+        "latitude": 30.286122550431546,
+        "longitude": -97.70733752196682
+    },
+    {
+        "report_number": "2023-1400108",
+        "report_date_time": "Sat, May-20-2023 01:11",
+        "offense_date_time": "Sat, May-20-2023 01:11",
+        "offenses": [
+            "FAMILY DISTURBANCE"
+        ],
+        "offense_location": [
+            "513 POST ROAD DR, AUSTIN 78704",
+            "13",
+            "2",
+            "DA"
+        ],
+        "latitude": 30.228094251188786,
+        "longitude": -97.76681869385278
+    },
+    {
+        "report_number": "2023-1400127",
+        "report_date_time": "Sat, May-20-2023 01:31",
+        "offense_date_time": "Sat, May-20-2023 01:31",
+        "offenses": [
+            "ASSAULT W/INJURY-FAM/DATE VIOL"
+        ],
+        "offense_location": [
+            "1521 REAGAN HILL DR, Apt # 203,AUSTIN 78752",
+            "402",
+            "2",
+            "ID"
+        ],
+        "arrestee_name": ": CASTANEDA, CAROLINE",
+        "arrestee_gender": "Female",
+        "arrestee_race": "White",
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-1400133",
+        "report_date_time": "Sat, May-20-2023 01:34",
+        "offense_date_time": "Sat, May-20-2023 01:34",
+        "offenses": [
+            "ASSAULT WITH INJURY",
+            "RESISTING ARREST OR SEARCH"
+        ],
+        "offense_location": [
+            "411 E 6TH ST, AUSTIN 78701",
+            "11",
+            "2",
+            "GE"
+        ],
+        "arrestee_name": ": JACKSON, TODD",
+        "arrestee_gender": "Male",
+        "arrestee_race": "Black",
+        "latitude": 30.267015220824447,
+        "longitude": -97.73915468062171
+    },
+    {
+        "report_number": "2023-1400144",
+        "report_date_time": "Sat, May-20-2023 05:33",
+        "offense_date_time": "Sat, May-20-2023 01:48",
+        "offenses": [
+            "DWI 2ND"
+        ],
+        "offense_location": [
+            "12000 N MOPAC EXPY SVRD SB, AUSTIN 78759",
+            "414",
+            "3",
+            "AD"
+        ],
+        "arrestee_name": ": RAMIREZ, ALFONSO PALACIOS",
+        "arrestee_gender": "Male",
+        "arrestee_race": "White",
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-1400423",
+        "report_date_time": "Sat, May-20-2023 07:30",
+        "offense_date_time": "Sat, May-20-2023 01:50",
+        "offenses": [
+            "CRIMINAL MISCHIEF",
+            "DEADLY CONDUCT"
+        ],
+        "offense_location": [
+            "12901 N IH 35 SVRD NB, AUSTIN 78753",
+            "439",
+            "6",
+            "ED"
+        ],
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-1400151",
+        "report_date_time": "Sat, May-20-2023 01:51",
+        "offense_date_time": "Sat, May-20-2023 01:51",
+        "offenses": [
+            "REQUEST TO APPREHEND"
+        ],
+        "offense_location": [
+            "7901 CAMERON RD, AUSTIN 78754",
+            "436",
+            "2",
+            "ID"
+        ],
+        "arrestee_name": ": BROD, TYLER AARON",
+        "arrestee_gender": "Male",
+        "arrestee_race": "White",
+        "latitude": 30.333404506102173,
+        "longitude": -97.68573700854374
+    },
+    {
+        "report_number": "2023-1400457",
+        "report_date_time": "Sat, May-20-2023 08:44",
+        "offense_date_time": "Sat, May-20-2023 02:00",
+        "offenses": [
+            "ASSAULT WITH INJURY"
+        ],
+        "offense_location": [
+            "501 W 5TH ST, AUSTIN 78701",
+            "11",
+            "1",
+            "GE"
+        ],
+        "latitude": 30.26840131491732,
+        "longitude": -97.74779388408078
+    },
+    {
+        "report_number": "2023-1400173",
+        "report_date_time": "Sat, May-20-2023 04:13",
+        "offense_date_time": "Sat, May-20-2023 02:11",
+        "offenses": [
+            "DECEASED PERSON"
+        ],
+        "offense_location": [
+            "1100 PEGGOTTY PL, AUSTIN 78753",
+            "438",
+            "7",
+            "ED"
+        ],
+        "latitude": 30.38691124011627,
+        "longitude": -97.66106843563982
+    },
+    {
+        "report_number": "2023-1400176",
+        "report_date_time": "Sat, May-20-2023 03:14",
+        "offense_date_time": "Sat, May-20-2023 02:13",
+        "offenses": [
+            "DWI"
+        ],
+        "offense_location": [
+            "4500 BULL CREEK RD, AUSTIN 78731",
+            "1",
+            "6",
+            "BA"
+        ],
+        "arrestee_name": ": VILLARREAL, MIGUEL ALEJANDRO",
+        "arrestee_gender": "Male",
+        "arrestee_race": "White",
+        "latitude": 30.320771969374455,
+        "longitude": -97.75336102516137
+    },
+    {
+        "report_number": "2023-1400178",
+        "report_date_time": "Sat, May-20-2023 02:15",
+        "offense_date_time": "Sat, May-20-2023 02:15",
+        "offenses": [
+            "PUBLIC INTOX-SOBERING CENTER"
+        ],
+        "offense_location": [
+            "111 W ANDERSON LN SVRD EB, AUSTIN 78752",
+            "400",
+            "8",
+            "ID"
+        ],
+        "latitude": 30.344340463571687,
+        "longitude": -97.70648937147214
+    },
+    {
+        "report_number": "2023-1400186",
+        "report_date_time": "Sat, May-20-2023 02:21",
+        "offense_date_time": "Sat, May-20-2023 02:21",
+        "offenses": [
+            "CRIMINAL TRESPASS",
+            "LEVEL 3 RESPONSE TO RESISTANCE",
+            "FAMILY DISTURBANCE"
+        ],
+        "offense_location": [
+            "4424 JACKSON AVE, Apt # 615,AUSTIN 78731",
+            "1",
+            "6",
+            "BA"
+        ],
+        "arrestee_name": ": HINOJOSA, AARON MIKEAL",
+        "arrestee_gender": "Male",
+        "arrestee_race": "White",
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-1400187",
+        "report_date_time": "Sat, May-20-2023 02:22",
+        "offense_date_time": "Sat, May-20-2023 02:22",
+        "offenses": [
+            "LEVEL 4 RESPONSE TO RESISTANCE",
+            "PUBLIC INTOXICATION"
+        ],
+        "offense_location": [
+            "400 BLOCK E 6TH ST, AUSTIN 78701",
+            "11",
+            "2",
+            "GE"
+        ],
+        "arrestee_name": ": BROWN, CHRISTOPHER DESHON JR",
+        "arrestee_gender": "Male",
+        "arrestee_race": "Black",
+        "latitude": 30.26705069175113,
+        "longitude": -97.73924615742816
+    },
+    {
+        "report_number": "2023-1400143",
+        "report_date_time": "Sat, May-20-2023 02:26",
+        "offense_date_time": "Sat, May-20-2023 02:26",
+        "offenses": [
+            "FAMILY DISTURBANCE"
+        ],
+        "offense_location": [
+            "4902 HAWK CV, Apt # B,AUSTIN 78745",
+            "20",
+            "3",
+            "DA"
+        ],
+        "latitude": 30.21918522491133,
+        "longitude": -97.78523107391972
+    },
+    {
+        "report_number": "2023-1400484",
+        "report_date_time": "Sat, May-20-2023 08:35",
+        "offense_date_time": "Sat, May-20-2023 02:30",
+        "offenses": [
+            "BURGLARY OF RESIDENCE",
+            "AUTO THEFT"
+        ],
+        "offense_location": [
+            "11011 DOMAIN DR, Apt # 8133,AUSTIN 78758",
+            "454",
+            "1",
+            "AD"
+        ],
+        "case_summary": "STOLEN",
+        "arrestee_name": "COMPUTER HARDWARE/SOFTWARE",
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-5012538",
+        "report_date_time": "Sat, May-20-2023 20:41",
+        "offense_date_time": "Sat, May-20-2023 02:30",
+        "offenses": [
+            "BURGLARY OF VEHICLE"
+        ],
+        "offense_location": [
+            "14233 THE LAKES BLVD, AUSTIN 78660",
+            "442",
+            "6",
+            "ED"
+        ],
+        "case_summary": "STOLEN",
+        "arrestee_name": "COMPUTER HARDWARE/SOFTWARE",
+        "latitude": "30.429261",
+        "longitude": "-97.665241"
+    },
+    {
+        "report_number": "2023-1391645",
+        "report_date_time": "Sat, May-20-2023 02:32",
+        "offense_date_time": "Sat, May-20-2023 02:32",
+        "offenses": [
+            "AUTO THEFT"
+        ],
+        "offense_location": [
+            "1100 W ANDERSON LN SVRD EB, AUSTIN",
+            "",
+            "",
+            ""
+        ],
+        "case_summary": "STOLEN",
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-1400201",
+        "report_date_time": "Sat, May-20-2023 02:33",
+        "offense_date_time": "Sat, May-20-2023 02:33",
+        "offenses": [
+            "FAMILY DISTURBANCE"
+        ],
+        "offense_location": [
+            "9219 ANDERSON MILL RD, AUSTIN 78729",
+            "204",
+            "4",
+            "AD"
+        ],
+        "latitude": 30.45097445432622,
+        "longitude": -97.78332405113545
+    },
+    {
+        "report_number": "2023-1400207",
+        "report_date_time": "Sat, May-20-2023 02:42",
+        "offense_date_time": "Sat, May-20-2023 02:42",
+        "offenses": [
+            "THEFT",
+            "AGG ASSAULT"
+        ],
+        "offense_location": [
+            "1159 NICKOLS AVE, AUSTIN 78721",
+            "21.10",
+            "5",
+            "CH"
+        ],
+        "case_summary": "STOLEN",
+        "arrestee_name": "PURSES HANDBAGS WALLETS",
+        "latitude": 30.276879036234916,
+        "longitude": -97.68459405976499
+    },
+    {
+        "report_number": "2023-1400208",
+        "report_date_time": "Sat, May-20-2023 02:44",
+        "offense_date_time": "Sat, May-20-2023 02:44",
+        "offenses": [
+            "REQUEST TO APPREHEND",
+            "EVADING VEHICLE",
+            "POSS OF DRUG PARAPHERNALIA",
+            "POSS CONTROLLED SUB/NARCOTIC",
+            "EVADING / FOOT",
+            "HINDERING APPREHENSION",
+            "POSSESSION OF MARIJUANA"
+        ],
+        "offense_location": [
+            "6725 CIRCLE S RD, AUSTIN 78745",
+            "24.22",
+            "3",
+            "FR"
+        ],
+        "arrestee_name": ": BRAMASCO, JANETTE",
+        "arrestee_gender": "Female",
+        "arrestee_race": "White",
+        "latitude": 30.192061962927756,
+        "longitude": -97.77773529992827
+    },
+    {
+        "report_number": "2023-1400213",
+        "report_date_time": "Sat, May-20-2023 03:28",
+        "offense_date_time": "Sat, May-20-2023 02:48",
+        "offenses": [
+            "DISTURBANCE - OTHER"
+        ],
+        "offense_location": [
+            "415 W 39TH ST, Apt # 103,AUSTIN 78751",
+            "3",
+            "5",
+            "BA"
+        ],
+        "latitude": 30.303295982666715,
+        "longitude": -97.73573079894142
+    },
+    {
+        "report_number": "2023-1400138",
+        "report_date_time": "Sat, May-20-2023 02:56",
+        "offense_date_time": "Sat, May-20-2023 02:56",
+        "offenses": [
+            "AUTO THEFT"
+        ],
+        "offense_location": [
+            "861 E BRAKER LN, AUSTIN 78753",
+            "416",
+            "7",
+            "ED"
+        ],
+        "case_summary": "STOLEN",
+        "latitude": 30.37605759644294,
+        "longitude": -97.67379157231035
+    },
+    {
+        "report_number": "2023-1400259",
+        "report_date_time": "Sat, May-20-2023 03:47",
+        "offense_date_time": "Sat, May-20-2023 03:00",
+        "offenses": [
+            "DATING DISTURBANCE"
+        ],
+        "offense_location": [
+            "14199 N IH 35 SVRD NB, Apt # 2201,AUSTIN 78660",
+            "442",
+            "6",
+            "ED"
+        ],
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-5012526",
+        "report_date_time": "Sat, May-20-2023 15:46",
+        "offense_date_time": "Sat, May-20-2023 03:00",
+        "offenses": [
+            "CRIMINAL MISCHIEF-NO SUSPECT"
+        ],
+        "offense_location": [
+            "3509 STARLINE DR, AUSTIN 78759",
+            "302",
+            "8",
+            "BA"
+        ],
+        "case_summary": "DAMAGED",
+        "latitude": 30.36301601605975,
+        "longitude": -97.74594232699614
+    },
+    {
+        "report_number": "2023-1400229",
+        "report_date_time": "Sat, May-20-2023 03:25",
+        "offense_date_time": "Sat, May-20-2023 03:02",
+        "offenses": [
+            "CRIMINAL TRESPASS NOTICE"
+        ],
+        "offense_location": [
+            "7901 CAMERON RD, AUSTIN 78754",
+            "436",
+            "2",
+            "ID"
+        ],
+        "latitude": 30.333404506102173,
+        "longitude": -97.68573700854374
+    },
+    {
+        "report_number": "2023-1400204",
+        "report_date_time": "Sat, May-20-2023 03:34",
+        "offense_date_time": "Sat, May-20-2023 03:34",
+        "offenses": [
+            "POSSESSION OF MARIJUANA"
+        ],
+        "offense_location": [
+            "2710 METCALFE RD, AUSTIN 78741",
+            "23",
+            "2",
+            "HE"
+        ],
+        "latitude": 30.226599508644497,
+        "longitude": -97.7374130278028
+    },
+    {
+        "report_number": "2023-1400252",
+        "report_date_time": "Sat, May-20-2023 03:45",
+        "offense_date_time": "Sat, May-20-2023 03:34",
+        "offenses": [
+            "CRASH/FATALITY"
+        ],
+        "offense_location": [
+            "4900 S IH 35 SVRD NB, AUSTIN 78744",
+            "24.11",
+            "5",
+            "FR"
+        ],
+        "investigator_assigned": "AP5677 - BOWMAN, MELONY",
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-1400245",
+        "report_date_time": "Sat, May-20-2023 03:36",
+        "offense_date_time": "Sat, May-20-2023 03:36",
+        "offenses": [
+            "CRIMINAL TRESPASS NOTICE"
+        ],
+        "offense_location": [
+            "4424 JACKSON AVE, Apt # 615,AUSTIN 78731",
+            "1",
+            "6",
+            "BA"
+        ],
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-1400250",
+        "report_date_time": "Sat, May-20-2023 03:36",
+        "offense_date_time": "Sat, May-20-2023 03:36",
+        "offenses": [
+            "CRASH/LEAVING THE SCENE"
+        ],
+        "offense_location": [
+            "8100 N IH 35 SVRD NB, AUSTIN 78753",
+            "403",
+            "2",
+            "ID"
+        ],
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-1400254",
+        "report_date_time": "Sat, May-20-2023 03:38",
+        "offense_date_time": "Sat, May-20-2023 03:38",
+        "offenses": [
+            "DWI"
+        ],
+        "offense_location": [
+            "S 1ST ST / W STASSNEY LN, AUSTIN 78745",
+            "24.10",
+            "4",
+            "FR"
+        ],
+        "arrestee_name": ": GARCIA-RUIZ, SALVADOR",
+        "arrestee_gender": "Male",
+        "arrestee_race": "White",
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-231400254",
+        "report_date_time": "Sat, May-20-2023 05:07",
+        "offense_date_time": "Sat, May-20-2023 03:38",
+        "offenses": [
+            "DAMAGE CITY VEHICLE"
+        ],
+        "offense_location": [
+            "S 1ST ST / W STASSNEY LN, AUSTIN 78745",
+            "24.10",
+            "4",
+            "FR"
+        ],
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-1400255",
+        "report_date_time": "Sat, May-20-2023 03:41",
+        "offense_date_time": "Sat, May-20-2023 03:41",
+        "offenses": [
+            "PUBLIC INTOXICATION"
+        ],
+        "offense_location": [
+            "7211 LAKEWOOD DR, Apt # 137,AUSTIN 78750",
+            "305",
+            "7",
+            "AD"
+        ],
+        "arrestee_name": ": VALENZUELA, YANCY",
+        "arrestee_gender": "Male",
+        "arrestee_race": "Black",
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-1400088",
+        "report_date_time": "Sat, May-20-2023 03:43",
+        "offense_date_time": "Sat, May-20-2023 03:43",
+        "offenses": [
+            "ASSAULT W/INJURY-FAM/DATE VIOL"
+        ],
+        "offense_location": [
+            "11216 PRAIRIE DOVE CIR, AUSTIN 78758",
+            "417",
+            "4",
+            "ED"
+        ],
+        "arrestee_name": ": OLVERA, PATRICIA",
+        "arrestee_gender": "Female",
+        "arrestee_race": "White",
+        "latitude": 30.389462440044817,
+        "longitude": -97.70479159760413
+    },
+    {
+        "report_number": "2023-1400257",
+        "report_date_time": "Sat, May-20-2023 03:45",
+        "offense_date_time": "Sat, May-20-2023 03:45",
+        "offenses": [
+            "RAPE",
+            "AGG ASLT STRANGLE/SUFFOCATE"
+        ],
+        "offense_location": [
+            "800 BLOCK TRINITY ST, AUSTIN 78701",
+            "11",
+            "1",
+            "GE"
+        ],
+        "latitude": 30.269006582674514,
+        "longitude": -97.73858661658005
+    },
+    {
+        "report_number": "2023-1400266",
+        "report_date_time": "Sat, May-20-2023 03:53",
+        "offense_date_time": "Sat, May-20-2023 03:53",
+        "offenses": [
+            "DWI"
+        ],
+        "offense_location": [
+            "11701 N IH 35 SVRD NB, AUSTIN 78753",
+            "415",
+            "7",
+            "ED"
+        ],
+        "arrestee_name": ": LOCKHART, ZACHARY JAMES",
+        "arrestee_gender": "Female",
+        "arrestee_race": "Black",
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-1400269",
+        "report_date_time": "Sat, May-20-2023 08:25",
+        "offense_date_time": "Sat, May-20-2023 03:53",
+        "offenses": [
+            "AGG ASSAULT"
+        ],
+        "offense_location": [
+            "13145 N US 183 HWY SVRD NB, Apt # 621,AUSTIN 78729",
+            "204",
+            "4",
+            "AD"
+        ],
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-1400268",
+        "report_date_time": "Sat, May-20-2023 06:25",
+        "offense_date_time": "Sat, May-20-2023 03:56",
+        "offenses": [
+            "DWI"
+        ],
+        "offense_location": [
+            "5630 N LAMAR BLVD, AUSTIN 78756",
+            "2",
+            "7",
+            "ID"
+        ],
+        "arrestee_name": ": SMITH-TAYLOR, JOSHUA",
+        "arrestee_gender": "Male",
+        "arrestee_race": "Black",
+        "latitude": 30.325540730685926,
+        "longitude": -97.72660625888754
+    },
+    {
+        "report_number": "2023-1400279",
+        "report_date_time": "Sat, May-20-2023 04:08",
+        "offense_date_time": "Sat, May-20-2023 04:08",
+        "offenses": [
+            "DAMAGE CITY PROP"
+        ],
+        "offense_location": [
+            "400 E WILLIAM CANNON DR, AUSTIN 78745",
+            "24.43",
+            "4",
+            "FR"
+        ],
+        "latitude": 30.192158706565607,
+        "longitude": -97.77567229738352
+    },
+    {
+        "report_number": "2023-1400451",
+        "report_date_time": "Sat, May-20-2023 09:22",
+        "offense_date_time": "Sat, May-20-2023 04:30",
+        "offenses": [
+            "SEXUAL ASSAULT INFORMATION"
+        ],
+        "offense_location": [
+            "1600 BLOCK E OLTORF ST, AUSTIN 78741",
+            "23",
+            "2",
+            "HE"
+        ],
+        "investigator_assigned": "AP7057 - COSTELLO, WILLIAM",
+        "latitude": 30.23327297826045,
+        "longitude": -97.73930681839192
+    },
+    {
+        "report_number": "2023-1400290",
+        "report_date_time": "Sat, May-20-2023 05:13",
+        "offense_date_time": "Sat, May-20-2023 05:13",
+        "offenses": [
+            "ASSAULT W/INJURY-FAM/DATE VIOL"
+        ],
+        "offense_location": [
+            "6108 KASPER ST, AUSTIN 78741",
+            "23.25",
+            "3",
+            "HE"
+        ],
+        "latitude": 30.226945431083955,
+        "longitude": -97.70553058648102
+    },
+    {
+        "report_number": "2023-1400383",
+        "report_date_time": "Sat, May-20-2023 06:25",
+        "offense_date_time": "Sat, May-20-2023 06:00",
+        "offenses": [
+            "CRIMINAL TRESPASS NOTICE"
+        ],
+        "offense_location": [
+            "10206 N IH 35 SVRD SB, AUSTIN 78753",
+            "410",
+            "1",
+            "ED"
+        ],
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-1400380",
+        "report_date_time": "Sat, May-20-2023 06:18",
+        "offense_date_time": "Sat, May-20-2023 06:18",
+        "offenses": [
+            "FAMILY DISTURBANCE"
+        ],
+        "offense_location": [
+            "2800 LYONS RD, Apt # 224,AUSTIN 78702",
+            "8",
+            "2",
+            "CH"
+        ],
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-1400258",
+        "report_date_time": "Sat, May-20-2023 06:44",
+        "offense_date_time": "Sat, May-20-2023 06:44",
+        "offenses": [
+            "FAMILY DISTURBANCE"
+        ],
+        "offense_location": [
+            "12113 DESSAU RD, Apt # 14301,AUSTIN 78754",
+            "435",
+            "5",
+            "ED"
+        ],
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-14001319",
+        "report_date_time": "Sat, May-20-2023 07:05",
+        "offense_date_time": "Sat, May-20-2023 07:05",
+        "offenses": [
+            "BURGLARY NON RESIDENCE"
+        ],
+        "offense_location": [
+            "111 W WILLIAM CANNON DR, AUSTIN 78745",
+            "24.22",
+            "3",
+            "FR"
+        ],
+        "case_summary": "STOLEN",
+        "arrestee_name": "NEGOTIABLE INSTRUMENTS",
+        "latitude": 30.193516978052358,
+        "longitude": -97.78024699641408
+    },
+    {
+        "report_number": "2023-1400431",
+        "report_date_time": "Sat, May-20-2023 07:31",
+        "offense_date_time": "Sat, May-20-2023 07:31",
+        "offenses": [
+            "ANIMAL BITE"
+        ],
+        "offense_location": [
+            "4407 LENDALL LN, AUSTIN 78744",
+            "24.42",
+            "8",
+            "FR"
+        ],
+        "investigator_assigned": "AP6097 - ESCAMILLA, ROBERT",
+        "latitude": 30.17708661691309,
+        "longitude": -97.759397924778
+    },
+    {
+        "report_number": "2023-1400453",
+        "report_date_time": "Sat, May-20-2023 08:02",
+        "offense_date_time": "Sat, May-20-2023 07:45",
+        "offenses": [
+            "CRIMINAL TRESPASS NOTICE"
+        ],
+        "offense_location": [
+            "901 W BRAKER LN, AUSTIN 78758",
+            "419",
+            "4",
+            "ED"
+        ],
+        "latitude": 30.382054849469313,
+        "longitude": -97.68673624133658
+    },
+    {
+        "report_number": "2023-1400437",
+        "report_date_time": "Sat, May-20-2023 07:48",
+        "offense_date_time": "Sat, May-20-2023 07:48",
+        "offenses": [
+            "OUT OF CITY AUTO THEFT"
+        ],
+        "offense_location": [
+            "6934 E BEN WHITE BLVD SVRD WB, AUSTIN 78741",
+            "23.20",
+            "5",
+            "HE"
+        ],
+        "case_summary": "STOLEN",
+        "latitude": 30.21431224954946,
+        "longitude": -97.7046552305598
+    },
+    {
+        "report_number": "2023-1400418",
+        "report_date_time": "Sat, May-20-2023 07:55",
+        "offense_date_time": "Sat, May-20-2023 07:55",
+        "offenses": [
+            "BURGLARY NON RESIDENCE"
+        ],
+        "offense_location": [
+            "1411 W BEN WHITE BLVD SVRD EB, AUSTIN 78745",
+            "20",
+            "3",
+            "DA"
+        ],
+        "case_summary": "STOLEN",
+        "arrestee_name": "OTHER",
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-1400438",
+        "report_date_time": "Sat, May-20-2023 08:04",
+        "offense_date_time": "Sat, May-20-2023 08:04",
+        "offenses": [
+            "CRIMINAL TRESPASS NOTICE"
+        ],
+        "offense_location": [
+            "411 W MARTIN LUTHER KING JR BLVD, AUSTIN 78701",
+            "7",
+            "1",
+            "BA"
+        ],
+        "latitude": 30.28176629852344,
+        "longitude": -97.7420246398811
+    },
+    {
+        "report_number": "2023-1400446",
+        "report_date_time": "Sat, May-20-2023 08:09",
+        "offense_date_time": "Sat, May-20-2023 08:09",
+        "offenses": [
+            "POSS OF DRUG PARAPHERNALIA"
+        ],
+        "offense_location": [
+            "811 TRINITY ST, AUSTIN 78701",
+            "11",
+            "1",
+            "GE"
+        ],
+        "latitude": 30.26908644937255,
+        "longitude": -97.73854499475829
+    },
+    {
+        "report_number": "2023-1400490",
+        "report_date_time": "Sat, May-20-2023 08:42",
+        "offense_date_time": "Sat, May-20-2023 08:42",
+        "offenses": [
+            "DISTURBANCE - OTHER"
+        ],
+        "offense_location": [
+            "503 W MARTIN LUTHER KING JR BLVD, AUSTIN 78701",
+            "7",
+            "2",
+            "BA"
+        ],
+        "latitude": 30.28198882284681,
+        "longitude": -97.74284247222349
+    },
+    {
+        "report_number": "2023-1400521",
+        "report_date_time": "Sat, May-20-2023 09:14",
+        "offense_date_time": "Sat, May-20-2023 09:14",
+        "offenses": [
+            "FAMILY DISTURBANCE"
+        ],
+        "offense_location": [
+            "11301 FARRAH LN, Apt # 525,AUSTIN 78748",
+            "24",
+            "2",
+            "FR"
+        ],
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-5012492",
+        "report_date_time": "Sat, May-20-2023 09:15",
+        "offense_date_time": "Sat, May-20-2023 09:15",
+        "offenses": [
+            "THEFT FROM AUTO"
+        ],
+        "offense_location": [
+            "1129 DON ANN ST, AUSTIN 78721",
+            "21.11",
+            "5",
+            "CH"
+        ],
+        "case_summary": "STOLEN",
+        "latitude": 30.26814380185118,
+        "longitude": -97.69023990758454
+    },
+    {
+        "report_number": "2023-1400435",
+        "report_date_time": "Sat, May-20-2023 09:19",
+        "offense_date_time": "Sat, May-20-2023 09:19",
+        "offenses": [
+            "DECEASED PERSON"
+        ],
+        "offense_location": [
+            "6020 S 1ST ST, AUSTIN 78745",
+            "24.10",
+            "4",
+            "FR"
+        ],
+        "latitude": 30.20219703360073,
+        "longitude": -97.78465235301013
+    },
+    {
+        "report_number": "2023-1400529",
+        "report_date_time": "Sat, May-20-2023 11:14",
+        "offense_date_time": "Sat, May-20-2023 09:23",
+        "offenses": [
+            "BURGLARY OF VEHICLE"
+        ],
+        "offense_location": [
+            "161 W SLAUGHTER LN, AUSTIN 78748",
+            "24.37",
+            "2",
+            "FR"
+        ],
+        "case_summary": "STOLEN",
+        "latitude": 30.167161902475673,
+        "longitude": -97.79144470021852
+    },
+    {
+        "report_number": "2023-1400538",
+        "report_date_time": "Sat, May-20-2023 09:34",
+        "offense_date_time": "Sat, May-20-2023 09:34",
+        "offenses": [
+            "DECEASED PERSON"
+        ],
+        "offense_location": [
+            "4809 BERGFIELD DR, AUSTIN 78744",
+            "24.47",
+            "6",
+            "FR"
+        ],
+        "latitude": 30.19674681897471,
+        "longitude": -97.73382830086602
+    },
+    {
+        "report_number": "2023-1400544",
+        "report_date_time": "Sat, May-20-2023 09:39",
+        "offense_date_time": "Sat, May-20-2023 09:39",
+        "offenses": [
+            "FALSE REPORT TO PEACE OFFICER",
+            "FAILURE TO IDENTIFY",
+            "AUTO THEFT INFORMATION"
+        ],
+        "offense_location": [
+            "1700 TERI RD, AUSTIN 78744",
+            "24.11",
+            "5",
+            "FR"
+        ],
+        "latitude": 30.204672989820345,
+        "longitude": -97.75648748105304
+    },
+    {
+        "report_number": "2023-1400704",
+        "report_date_time": "Sat, May-20-2023 18:52",
+        "offense_date_time": "Sat, May-20-2023 09:40",
+        "offenses": [
+            "CRIMINAL MISCHIEF"
+        ],
+        "offense_location": [
+            "1100 REINLI ST, AUSTIN 78723",
+            "21",
+            "5",
+            "ID"
+        ],
+        "case_summary": "DAMAGED",
+        "latitude": 30.31695925969427,
+        "longitude": -97.70385991837883
+    },
+    {
+        "report_number": "2023-9004515",
+        "report_date_time": "Sat, May-20-2023 12:08",
+        "offense_date_time": "Sat, May-20-2023 10:00",
+        "offenses": [
+            "HATE CRIME INFORMATION",
+            "ASSAULT BY THREAT"
+        ],
+        "offense_location": [
+            "2401 ALDRICH ST, AUSTIN 78723",
+            "3",
+            "4",
+            "BA"
+        ],
+        "latitude": 30.301672863024596,
+        "longitude": -97.70278175935333
+    },
+    {
+        "report_number": "2023-1400580",
+        "report_date_time": "Sat, May-20-2023 11:41",
+        "offense_date_time": "Sat, May-20-2023 10:14",
+        "offenses": [
+            "AUTO THEFT",
+            "RESPONSE TO RESISTANCE REPORT",
+            "RESISTING ARREST OR SEARCH"
+        ],
+        "offense_location": [
+            "2508 E RIVERSIDE DR, AUSTIN 78741",
+            "23",
+            "2",
+            "HE"
+        ],
+        "case_summary": "STOLEN",
+        "latitude": 30.239097475546476,
+        "longitude": -97.7261324985929
+    },
+    {
+        "report_number": "2023-1400582",
+        "report_date_time": "Sat, May-20-2023 10:17",
+        "offense_date_time": "Sat, May-20-2023 10:17",
+        "offenses": [
+            "THEFT OF LICENSE PLATE"
+        ],
+        "offense_location": [
+            "8220 RESEARCH BLVD SVRD SB, AUSTIN 78757",
+            "405",
+            "7",
+            "ID"
+        ],
+        "case_summary": "STOLEN",
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-9004522",
+        "report_date_time": "Sat, May-20-2023 15:31",
+        "offense_date_time": "Sat, May-20-2023 10:17",
+        "offenses": [
+            "THEFT BY SHOPLIFTING"
+        ],
+        "offense_location": [
+            "1801 E 51ST ST, Apt # 160,AUSTIN 78723",
+            "3",
+            "4",
+            "BA"
+        ],
+        "case_summary": "STOLEN",
+        "latitude": 30.303680256289812,
+        "longitude": -97.69876141870246
+    },
+    {
+        "report_number": "2023-1400569",
+        "report_date_time": "Sat, May-20-2023 10:19",
+        "offense_date_time": "Sat, May-20-2023 10:19",
+        "offenses": [
+            "CRIMINAL TRESPASS NOTICE"
+        ],
+        "offense_location": [
+            "917 N LAMAR BLVD, AUSTIN 78703",
+            "12",
+            "1",
+            "GE"
+        ],
+        "latitude": 30.27418217897567,
+        "longitude": -97.7526588485176
+    },
+    {
+        "report_number": "2023-1400589",
+        "report_date_time": "Sat, May-20-2023 10:21",
+        "offense_date_time": "Sat, May-20-2023 10:21",
+        "offenses": [
+            "CRIMINAL TRESPASS"
+        ],
+        "offense_location": [
+            "500 E 7TH ST, AUSTIN 78701",
+            "11",
+            "2",
+            "GE"
+        ],
+        "latitude": 30.26768203900535,
+        "longitude": -97.73782870371957
+    },
+    {
+        "report_number": "2023-1400601",
+        "report_date_time": "Sat, May-20-2023 10:37",
+        "offense_date_time": "Sat, May-20-2023 10:37",
+        "offenses": [
+            "BURGLARY NON RESIDENCE"
+        ],
+        "offense_location": [
+            "1811 W BEN WHITE BLVD SVRD EB, AUSTIN 78745",
+            "20",
+            "3",
+            "DA"
+        ],
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-1400604",
+        "report_date_time": "Sat, May-20-2023 10:41",
+        "offense_date_time": "Sat, May-20-2023 10:41",
+        "offenses": [
+            "COUNTERFEITING INFORMATION"
+        ],
+        "offense_location": [
+            "1320 E OLTORF ST, AUSTIN 78704",
+            "23.23",
+            "1",
+            "HE"
+        ],
+        "latitude": 30.234389862452666,
+        "longitude": -97.74325967253696
+    },
+    {
+        "report_number": "2023-1400611",
+        "report_date_time": "Sat, May-20-2023 10:43",
+        "offense_date_time": "Sat, May-20-2023 10:43",
+        "offenses": [
+            "CRIMINAL TRESPASS NOTICE"
+        ],
+        "offense_location": [
+            "1135 AIRPORT BLVD, AUSTIN 78721",
+            "21.11",
+            "4",
+            "CH"
+        ],
+        "latitude": 30.269443125561512,
+        "longitude": -97.69666596553648
+    },
+    {
+        "report_number": "2023-1400532",
+        "report_date_time": "Sat, May-20-2023 10:44",
+        "offense_date_time": "Sat, May-20-2023 10:44",
+        "offenses": [
+            "AUTO THEFT",
+            "EVADING VEHICLE"
+        ],
+        "offense_location": [
+            "104 E STASSNEY LN, AUSTIN 78745",
+            "24.43",
+            "3",
+            "DA"
+        ],
+        "case_summary": "STOLEN",
+        "latitude": 30.20492032512885,
+        "longitude": -97.7745640390695
+    },
+    {
+        "report_number": "2023-1400628",
+        "report_date_time": "Sat, May-20-2023 10:56",
+        "offense_date_time": "Sat, May-20-2023 10:56",
+        "offenses": [
+            "CRIMINAL TRESPASS NOTICE"
+        ],
+        "offense_location": [
+            "501 E 8TH ST, AUSTIN 78701",
+            "11",
+            "2",
+            "GE"
+        ],
+        "latitude": 30.26860868256284,
+        "longitude": -97.73747963716171
+    },
+    {
+        "report_number": "2023-1400645",
+        "report_date_time": "Sat, May-20-2023 10:56",
+        "offense_date_time": "Sat, May-20-2023 10:56",
+        "offenses": [
+            "CRIMINAL TRESPASS"
+        ],
+        "offense_location": [
+            "501 E 8TH ST, AUSTIN 78701",
+            "11",
+            "2",
+            "GE"
+        ],
+        "arrestee_name": ": VAUGHN, DAMION ANTHONY",
+        "arrestee_gender": "Male",
+        "arrestee_race": "Black",
+        "latitude": 30.26860868256284,
+        "longitude": -97.73747963716171
+    },
+    {
+        "report_number": "2023-9004512",
+        "report_date_time": "Sat, May-20-2023 11:59",
+        "offense_date_time": "Sat, May-20-2023 11:20",
+        "offenses": [
+            "THEFT OF BICYCLE"
+        ],
+        "offense_location": [
+            "2525 W ANDERSON LN, AUSTIN 78757",
+            "15",
+            "6",
+            "BA"
+        ],
+        "case_summary": "STOLEN",
+        "latitude": 30.357416473737437,
+        "longitude": -97.73375714743122
+    },
+    {
+        "report_number": "2023-5012511",
+        "report_date_time": "Sat, May-20-2023 12:34",
+        "offense_date_time": "Sat, May-20-2023 11:30",
+        "offenses": [
+            "THEFT BY SHOPLIFTING"
+        ],
+        "offense_location": [
+            "5256 BURNET RD, AUSTIN 78756",
+            "2",
+            "6",
+            "BA"
+        ],
+        "case_summary": "STOLEN",
+        "latitude": 30.326015571282536,
+        "longitude": -97.73963593203449
+    },
+    {
+        "report_number": "2023-1400661",
+        "report_date_time": "Sat, May-20-2023 15:33",
+        "offense_date_time": "Sat, May-20-2023 11:31",
+        "offenses": [
+            "CRIMINAL TRESPASS/TRANSIENT"
+        ],
+        "offense_location": [
+            "4415 MENCHACA RD, AUSTIN 78745",
+            "20",
+            "3",
+            "DA"
+        ],
+        "latitude": "30.22839535",
+        "longitude": "-97.78880312083334"
+    },
+    {
+        "report_number": "2023-1400640",
+        "report_date_time": "Sat, May-20-2023 11:43",
+        "offense_date_time": "Sat, May-20-2023 11:43",
+        "offenses": [
+            "CRIMINAL TRESPASS NOTICE"
+        ],
+        "offense_location": [
+            "9100 WATERFORD CENTRE BLVD, AUSTIN 78758",
+            "454",
+            "1",
+            "AD"
+        ],
+        "latitude": 30.37698218812958,
+        "longitude": -97.7297511415922
+    },
+    {
+        "report_number": "2023-1400725",
+        "report_date_time": "Sat, May-20-2023 18:30",
+        "offense_date_time": "Sat, May-20-2023 11:45",
+        "offenses": [
+            "ASSAULT WITH INJURY"
+        ],
+        "offense_location": [
+            "1203 W 6TH ST, AUSTIN 78703",
+            "12",
+            "2",
+            "BA"
+        ],
+        "latitude": 30.27304412101265,
+        "longitude": -97.75790792887551
+    },
+    {
+        "report_number": "2023-231400683",
+        "report_date_time": "Sat, May-20-2023 11:45",
+        "offense_date_time": "Sat, May-20-2023 11:45",
+        "offenses": [
+            "CRIMINAL TRESPASS NOTICE"
+        ],
+        "offense_location": [
+            "719 W WILLIAM CANNON DR, AUSTIN 78745",
+            "24.24",
+            "3",
+            "FR"
+        ],
+        "latitude": 30.1972825678128,
+        "longitude": -97.78836814920447
+    },
+    {
+        "report_number": "2023-1400701",
+        "report_date_time": "Sat, May-20-2023 11:58",
+        "offense_date_time": "Sat, May-20-2023 11:58",
+        "offenses": [
+            "ASSAULT W/INJURY-FAM/DATE VIOL"
+        ],
+        "offense_location": [
+            "1017 MILAM PL, AUSTIN 78704",
+            "14",
+            "1",
+            "HE"
+        ],
+        "arrestee_name": ": STEFANICK, BIANCA RACHELLE",
+        "arrestee_gender": "Female",
+        "arrestee_race": "White",
+        "latitude": 30.247101926134505,
+        "longitude": -97.7396185240961
+    },
+    {
+        "report_number": "2023-1400707",
+        "report_date_time": "Sat, May-20-2023 12:01",
+        "offense_date_time": "Sat, May-20-2023 12:01",
+        "offenses": [
+            "FOUND PROPERTY"
+        ],
+        "offense_location": [
+            "11901 PAVILION BLVD, Apt # 357,AUSTIN 78759",
+            "25",
+            "7",
+            "AD"
+        ],
+        "latitude": 30.425021610261823,
+        "longitude": -97.75511041566774
+    },
+    {
+        "report_number": "2023-1400719",
+        "report_date_time": "Sat, May-20-2023 12:15",
+        "offense_date_time": "Sat, May-20-2023 12:15",
+        "offenses": [
+            "CRIMINAL TRESPASS NOTICE"
+        ],
+        "offense_location": [
+            "3000 OAK SPRINGS DR, AUSTIN 78702",
+            "8",
+            "2",
+            "CH"
+        ],
+        "latitude": 30.27314404577728,
+        "longitude": -97.70050386552683
+    },
+    {
+        "report_number": "2023-1400730",
+        "report_date_time": "Sat, May-20-2023 12:23",
+        "offense_date_time": "Sat, May-20-2023 12:15",
+        "offenses": [
+            "FAMILY DISTURBANCE"
+        ],
+        "offense_location": [
+            "12800 HARRISGLENN DR, Apt # 1623,AUSTIN 78753",
+            "439",
+            "6",
+            "ED"
+        ],
+        "latitude": 30.40005972636669,
+        "longitude": -97.65253705295594
+    },
+    {
+        "report_number": "2023-1400747",
+        "report_date_time": "Sat, May-20-2023 12:20",
+        "offense_date_time": "Sat, May-20-2023 12:20",
+        "offenses": [
+            "ASSAULT INFORMATION"
+        ],
+        "offense_location": [
+            "800 E WILLIAM CANNON DR, AUSTIN 78745",
+            "24.43",
+            "4",
+            "FR"
+        ],
+        "latitude": 30.191335418136983,
+        "longitude": -97.77275700842587
+    },
+    {
+        "report_number": "2023-9004514",
+        "report_date_time": "Sat, May-20-2023 13:32",
+        "offense_date_time": "Sat, May-20-2023 12:30",
+        "offenses": [
+            "CRASH/LEAVING THE SCENE"
+        ],
+        "offense_location": [
+            "3100 ESPERANZA XING, AUSTIN 78758",
+            "454",
+            "2",
+            "AD"
+        ],
+        "latitude": 30.398866769571896,
+        "longitude": -97.72087439292838
+    },
+    {
+        "report_number": "2023-1400549",
+        "report_date_time": "Sat, May-20-2023 12:43",
+        "offense_date_time": "Sat, May-20-2023 12:43",
+        "offenses": [
+            "DECEASED PERSON"
+        ],
+        "offense_location": [
+            "N IH 35 SVRD SB / CLARKSON AVE, AUSTIN 78751",
+            "3",
+            "5",
+            "BA"
+        ],
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-1400711",
+        "report_date_time": "Sat, May-20-2023 12:45",
+        "offense_date_time": "Sat, May-20-2023 12:45",
+        "offenses": [
+            "ASSAULT INFORMATION"
+        ],
+        "offense_location": [
+            "3509 ROGGE LN, AUSTIN 78723",
+            "21",
+            "4",
+            "ID"
+        ],
+        "latitude": 30.301252784137397,
+        "longitude": -97.67443684274126
+    },
+    {
+        "report_number": "2023-1400765",
+        "report_date_time": "Sat, May-20-2023 12:55",
+        "offense_date_time": "Sat, May-20-2023 12:55",
+        "offenses": [
+            "DECEASED PERSON"
+        ],
+        "offense_location": [
+            "3509 ROGGE LN, Apt # D6A,AUSTIN 78723",
+            "21",
+            "4",
+            "ID"
+        ],
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-1400766",
+        "report_date_time": "Sat, May-20-2023 14:22",
+        "offense_date_time": "Sat, May-20-2023 12:55",
+        "offenses": [
+            "ANIMAL BITE"
+        ],
+        "offense_location": [
+            "2215 PERRY AVE, AUSTIN 78704",
+            "13.12",
+            "1",
+            "DA"
+        ],
+        "investigator_assigned": "AP6097 - ESCAMILLA, ROBERT",
+        "latitude": 30.246359758723102,
+        "longitude": -97.76565224134208
+    },
+    {
+        "report_number": "2023-1400904",
+        "report_date_time": "Sat, May-20-2023 16:19",
+        "offense_date_time": "Sat, May-20-2023 13:00",
+        "offenses": [
+            "ASSAULT W/INJURY-FAM/DATE VIOL"
+        ],
+        "offense_location": [
+            "704 LITTLE OAK DR, AUSTIN 78753",
+            "411",
+            "4",
+            "ED"
+        ],
+        "latitude": 30.389069526772825,
+        "longitude": -97.68176891348678
+    },
+    {
+        "report_number": "2023-9004516",
+        "report_date_time": "Sat, May-20-2023 13:27",
+        "offense_date_time": "Sat, May-20-2023 13:00",
+        "offenses": [
+            "BURGLARY OF VEHICLE"
+        ],
+        "offense_location": [
+            "12138 N LAMAR BLVD, AUSTIN 78758",
+            "412",
+            "4",
+            "ED"
+        ],
+        "case_summary": "STOLEN",
+        "latitude": 30.396169840930447,
+        "longitude": -97.6801437293377
+    },
+    {
+        "report_number": "2023-231400777",
+        "report_date_time": "Sat, May-20-2023 13:05",
+        "offense_date_time": "Sat, May-20-2023 13:05",
+        "offenses": [
+            "ASSAULT BY CONTACT"
+        ],
+        "offense_location": [
+            "6641 MARBLE CREEK LOOP, AUSTIN 78747",
+            "24.39",
+            "7",
+            "FR"
+        ],
+        "latitude": 30.16021802523261,
+        "longitude": -97.73959042802124
+    },
+    {
+        "report_number": "2023-1400731",
+        "report_date_time": "Sat, May-20-2023 13:13",
+        "offense_date_time": "Sat, May-20-2023 13:13",
+        "offenses": [
+            "CRASH/CITY VEHICLE"
+        ],
+        "offense_location": [
+            "6600 S IH 35 SVRD NB, AUSTIN 78744",
+            "24.41",
+            "8",
+            "FR"
+        ],
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-1400746",
+        "report_date_time": "Sat, May-20-2023 13:14",
+        "offense_date_time": "Sat, May-20-2023 13:14",
+        "offenses": [
+            "ASSIST COMPLAINANT"
+        ],
+        "offense_location": [
+            "715 E 8TH ST, AUSTIN 78701",
+            "11",
+            "2",
+            "GE"
+        ],
+        "latitude": 30.267956687250688,
+        "longitude": -97.73507767188038
+    },
+    {
+        "report_number": "2023-1400788",
+        "report_date_time": "Sat, May-20-2023 13:16",
+        "offense_date_time": "Sat, May-20-2023 13:16",
+        "offenses": [
+            "CRIMINAL TRESPASS NOTICE"
+        ],
+        "offense_location": [
+            "ESPERANZA XING / ALTERRA PKWY, AUSTIN 78758",
+            "454",
+            "2",
+            "AD"
+        ],
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-1400789",
+        "report_date_time": "Sat, May-20-2023 13:17",
+        "offense_date_time": "Sat, May-20-2023 13:17",
+        "offenses": [
+            "AUTO THEFT"
+        ],
+        "offense_location": [
+            "2000 PEARL ST, Apt # 142,AUSTIN 78705",
+            "6",
+            "2",
+            "BA"
+        ],
+        "case_summary": "STOLEN",
+        "latitude": 30.284193066431527,
+        "longitude": -97.74662838229344
+    },
+    {
+        "report_number": "2023-1400804",
+        "report_date_time": "Sat, May-20-2023 14:55",
+        "offense_date_time": "Sat, May-20-2023 13:21",
+        "offenses": [
+            "FAMILY DISTURBANCE"
+        ],
+        "offense_location": [
+            "9106 BLUEGRASS DR, AUSTIN 78759",
+            "326",
+            "7",
+            "AD"
+        ],
+        "latitude": 30.395411837003515,
+        "longitude": -97.76833142731304
+    },
+    {
+        "report_number": "2023-1400775",
+        "report_date_time": "Sat, May-20-2023 13:26",
+        "offense_date_time": "Sat, May-20-2023 13:26",
+        "offenses": [
+            "ASSAULT WITH INJURY"
+        ],
+        "offense_location": [
+            "2610 LAKE AUSTIN BLVD, AUSTIN 78703",
+            "16",
+            "7",
+            "BA"
+        ],
+        "latitude": 30.28071051631107,
+        "longitude": -97.77503881230177
+    },
+    {
+        "report_number": "2023-1400816",
+        "report_date_time": "Sat, May-20-2023 17:56",
+        "offense_date_time": "Sat, May-20-2023 13:28",
+        "offenses": [
+            "REQUEST TO LOCATE"
+        ],
+        "offense_location": [
+            "2100 SAN ANTONIO ST, Apt # 1011,AUSTIN 78705",
+            "6",
+            "1",
+            "BA"
+        ],
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-1400821",
+        "report_date_time": "Sat, May-20-2023 13:39",
+        "offense_date_time": "Sat, May-20-2023 13:39",
+        "offenses": [
+            "THEFT INFORMATION"
+        ],
+        "offense_location": [
+            "3600 PRESIDENTIAL BLVD, AUSTIN 78719",
+            "9800",
+            "S",
+            "AP"
+        ],
+        "latitude": 30.208535718888964,
+        "longitude": -97.67064439049305
+    },
+    {
+        "report_number": "2023-1400858",
+        "report_date_time": "Sat, May-20-2023 14:17",
+        "offense_date_time": "Sat, May-20-2023 14:00",
+        "offenses": [
+            "CRIMINAL TRESPASS NOTICE"
+        ],
+        "offense_location": [
+            "9036 N LAMAR BLVD, AUSTIN 78758",
+            "406",
+            "1",
+            "ED"
+        ],
+        "latitude": 30.361421082419493,
+        "longitude": -97.69792355232053
+    },
+    {
+        "report_number": "2023-1400570",
+        "report_date_time": "Sat, May-20-2023 14:14",
+        "offense_date_time": "Sat, May-20-2023 14:14",
+        "offenses": [
+            "AUTO THEFT"
+        ],
+        "offense_location": [
+            "5612 PINON VISTA DR, AUSTIN 78724",
+            "22.13",
+            "6",
+            "CH"
+        ],
+        "latitude": 30.28746105770183,
+        "longitude": -97.64718133784389
+    },
+    {
+        "report_number": "2023-1400868",
+        "report_date_time": "Sat, May-20-2023 14:26",
+        "offense_date_time": "Sat, May-20-2023 14:15",
+        "offenses": [
+            "CRIMINAL MISCHIEF",
+            "ASSAULT INFORMATION"
+        ],
+        "offense_location": [
+            "1801 E 51ST ST, AUSTIN 78723",
+            "3",
+            "4",
+            "BA"
+        ],
+        "case_summary": "DAMAGED",
+        "latitude": 30.303680256289812,
+        "longitude": -97.69876141870246
+    },
+    {
+        "report_number": "2023-1400860",
+        "report_date_time": "Sat, May-20-2023 14:53",
+        "offense_date_time": "Sat, May-20-2023 14:53",
+        "offenses": [
+            "ASSAULT W/INJURY-FAM/DATE VIOL"
+        ],
+        "offense_location": [
+            "1127 PEARL RETREAT LN, Apt # 5104,AUSTIN 78753",
+            "439",
+            "6",
+            "ED"
+        ],
+        "latitude": 30.394734162376242,
+        "longitude": -97.65249681800827
+    },
+    {
+        "report_number": "2023-1400870",
+        "report_date_time": "Sat, May-20-2023 15:21",
+        "offense_date_time": "Sat, May-20-2023 15:21",
+        "offenses": [
+            "FAMILY DISTURBANCE"
+        ],
+        "offense_location": [
+            "5800 MANOR RD, AUSTIN 78723",
+            "21.12",
+            "4",
+            "ID"
+        ],
+        "latitude": 30.30554183512708,
+        "longitude": -97.68069267046413
+    },
+    {
+        "report_number": "2023-1400972",
+        "report_date_time": "Sat, May-20-2023 15:47",
+        "offense_date_time": "Sat, May-20-2023 15:47",
+        "offenses": [
+            "FAMILY DISTURBANCE"
+        ],
+        "offense_location": [
+            "9409 GROUSE MEADOW LN, Apt # B,AUSTIN 78758",
+            "406",
+            "1",
+            "ED"
+        ],
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-1400933",
+        "report_date_time": "Sat, May-20-2023 15:48",
+        "offense_date_time": "Sat, May-20-2023 15:48",
+        "offenses": [
+            "CRUELTY TO ANIMALS"
+        ],
+        "offense_location": [
+            "1711 BURTON DR, AUSTIN 78741",
+            "23.16",
+            "2",
+            "HE"
+        ],
+        "investigator_assigned": "AP6097 - ESCAMILLA, ROBERT",
+        "latitude": 30.237324826479767,
+        "longitude": -97.72767042771036
+    },
+    {
+        "report_number": "2023-1400952",
+        "report_date_time": "Sat, May-20-2023 15:49",
+        "offense_date_time": "Sat, May-20-2023 15:49",
+        "offenses": [
+            "CRIMINAL TRESPASS NOTICE"
+        ],
+        "offense_location": [
+            "401 CONGRESS AVE, AUSTIN 78701",
+            "11",
+            "2",
+            "GE"
+        ],
+        "latitude": 30.26628028756179,
+        "longitude": -97.74346414170108
+    },
+    {
+        "report_number": "2023-14008630",
+        "report_date_time": "Sat, May-20-2023 15:55",
+        "offense_date_time": "Sat, May-20-2023 15:55",
+        "offenses": [
+            "CRIMINAL TRESPASS NOTICE"
+        ],
+        "offense_location": [
+            "8801 S CONGRESS AVE, AUSTIN 78745",
+            "24.22",
+            "3",
+            "FR"
+        ],
+        "latitude": 30.16484183590839,
+        "longitude": -97.78792128764218
+    },
+    {
+        "report_number": "2023-1400903",
+        "report_date_time": "Sat, May-20-2023 16:09",
+        "offense_date_time": "Sat, May-20-2023 16:09",
+        "offenses": [
+            "THEFT"
+        ],
+        "offense_location": [
+            "7107 N IH 35 SVRD NB, Apt # 240,AUSTIN 78752",
+            "434",
+            "1",
+            "ID"
+        ],
+        "case_summary": "STOLEN",
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-1400973",
+        "report_date_time": "Sat, May-20-2023 16:17",
+        "offense_date_time": "Sat, May-20-2023 16:17",
+        "offenses": [
+            "ASSAULT INFO (FAMILY VIOLENCE",
+            "RESISTING ARREST OR SEARCH",
+            "RESPONSE TO RESISTANCE REPORT"
+        ],
+        "offense_location": [
+            "6607 CIRCLE S RD, AUSTIN 78745",
+            "24.43",
+            "4",
+            "FR"
+        ],
+        "arrestee_name": ": ROSALES, MICHAEL PATRICK",
+        "arrestee_gender": "Male",
+        "arrestee_race": "White",
+        "latitude": 30.19338579980851,
+        "longitude": -97.77743359641313
+    },
+    {
+        "report_number": "2023-1401021",
+        "report_date_time": "Sat, May-20-2023 16:19",
+        "offense_date_time": "Sat, May-20-2023 16:19",
+        "offenses": [
+            "DECEASED PERSON"
+        ],
+        "offense_location": [
+            "6201 SHADOW MOUNTAIN CV, AUSTIN 78731",
+            "306",
+            "8",
+            "BA"
+        ],
+        "latitude": 30.347958143155264,
+        "longitude": -97.76106370785371
+    },
+    {
+        "report_number": "2023-1401051",
+        "report_date_time": "Sat, May-20-2023 17:50",
+        "offense_date_time": "Sat, May-20-2023 16:21",
+        "offenses": [
+            "THEFT OF SERVICE"
+        ],
+        "offense_location": [
+            "9070 RESEARCH BLVD SB, Apt # 305,AUSTIN 78758",
+            "405",
+            "7",
+            "ID"
+        ],
+        "case_summary": "STOLEN",
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-1401035",
+        "report_date_time": "Sat, May-20-2023 16:29",
+        "offense_date_time": "Sat, May-20-2023 16:29",
+        "offenses": [
+            "FAMILY DISTURBANCE"
+        ],
+        "offense_location": [
+            "4404 LESLIE AVE, AUSTIN 78721",
+            "21",
+            "4",
+            "CH"
+        ],
+        "latitude": 30.28258797004411,
+        "longitude": -97.68707183291347
+    },
+    {
+        "report_number": "2023-1401036",
+        "report_date_time": "Sat, May-20-2023 16:32",
+        "offense_date_time": "Sat, May-20-2023 16:32",
+        "offenses": [
+            "AUTO THEFT"
+        ],
+        "offense_location": [
+            "6001 S CONGRESS AVE, Apt # 2415,AUSTIN 78745",
+            "24.43",
+            "4",
+            "FR"
+        ],
+        "case_summary": "STOLEN",
+        "latitude": 30.201646156488874,
+        "longitude": -97.77575603206198
+    },
+    {
+        "report_number": "2023-1401037",
+        "report_date_time": "Sat, May-20-2023 16:47",
+        "offense_date_time": "Sat, May-20-2023 16:33",
+        "offenses": [
+            "CRIMINAL TRESPASS NOTICE"
+        ],
+        "offense_location": [
+            "500 CANYON RIDGE DR, AUSTIN 78753",
+            "440",
+            "6",
+            "ED"
+        ],
+        "latitude": 30.403190020969728,
+        "longitude": -97.67434501276492
+    },
+    {
+        "report_number": "2023-1400849",
+        "report_date_time": "Sat, May-20-2023 16:40",
+        "offense_date_time": "Sat, May-20-2023 16:40",
+        "offenses": [
+            "FAMILY DISTURBANCE"
+        ],
+        "offense_location": [
+            "1071 CLAYTON LN, Apt # 204,AUSTIN 78723",
+            "21",
+            "5",
+            "ID"
+        ],
+        "latitude": 30.31890909605277,
+        "longitude": -97.70308750780411
+    },
+    {
+        "report_number": "2023-1400864",
+        "report_date_time": "Sat, May-20-2023 16:47",
+        "offense_date_time": "Sat, May-20-2023 16:47",
+        "offenses": [
+            "BURGLARY OF RESIDENCE"
+        ],
+        "offense_location": [
+            "6433 BRIDGEWATER DR, AUSTIN 78723",
+            "21",
+            "4",
+            "CH"
+        ],
+        "case_summary": "STOLEN",
+        "latitude": 30.3042265574605,
+        "longitude": -97.66526015844585
+    },
+    {
+        "report_number": "2023-1401079",
+        "report_date_time": "Sat, May-20-2023 17:28",
+        "offense_date_time": "Sat, May-20-2023 16:55",
+        "offenses": [
+            "ASSAULT WITH INJURY"
+        ],
+        "offense_location": [
+            "3501 ALPINE CIR, Apt # 2,AUSTIN 78704",
+            "13",
+            "2",
+            "DA"
+        ],
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-1400893",
+        "report_date_time": "Sat, May-20-2023 16:56",
+        "offense_date_time": "Sat, May-20-2023 16:56",
+        "offenses": [
+            "DEADLY CONDUCT"
+        ],
+        "offense_location": [
+            "9442 N CAPITAL OF TEXAS HWY SB, AUSTIN 78759",
+            "308",
+            "7",
+            "AD"
+        ],
+        "latitude": 30.38882890662877,
+        "longitude": -97.74797304459175
+    },
+    {
+        "report_number": "2023-1400867",
+        "report_date_time": "Sat, May-20-2023 17:03",
+        "offense_date_time": "Sat, May-20-2023 17:03",
+        "offenses": [
+            "AGG ROBBERY/DEADLY WEAPON",
+            "KIDNAPPING INFORMATION"
+        ],
+        "offense_location": [
+            "2202 CEDAR BEND DR, Apt # A,",
+            "",
+            "",
+            ""
+        ],
+        "investigator_assigned": "AP7337 - SCHWANKY, BRENDAN",
+        "case_summary": "STOLEN",
+        "arrestee_name": "MONEY",
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-1401003",
+        "report_date_time": "Sat, May-20-2023 17:04",
+        "offense_date_time": "Sat, May-20-2023 17:04",
+        "offenses": [
+            "AUTO THEFT"
+        ],
+        "offense_location": [
+            "5501 ROSS RD, Apt # 421,AUSTIN 78617",
+            "24.53",
+            "7",
+            "HE"
+        ],
+        "case_summary": "STOLEN",
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-1401065",
+        "report_date_time": "Sat, May-20-2023 17:06",
+        "offense_date_time": "Sat, May-20-2023 17:06",
+        "offenses": [
+            "CRIMINAL TRESPASS NOTICE"
+        ],
+        "offense_location": [
+            "6607 CIRCLE S RD, AUSTIN 78745",
+            "24.43",
+            "4",
+            "FR"
+        ],
+        "latitude": 30.19338579980851,
+        "longitude": -97.77743359641313
+    },
+    {
+        "report_number": "2023-1401096",
+        "report_date_time": "Sat, May-20-2023 18:12",
+        "offense_date_time": "Sat, May-20-2023 17:09",
+        "offenses": [
+            "ASSAULT WITH INJURY"
+        ],
+        "offense_location": [
+            "11721 ROCK ROSE AVE, AUSTIN 78758",
+            "454",
+            "2",
+            "AD"
+        ],
+        "latitude": "30.4014256",
+        "longitude": "-97.722659"
+    },
+    {
+        "report_number": "2023-1401091",
+        "report_date_time": "Sat, May-20-2023 17:15",
+        "offense_date_time": "Sat, May-20-2023 17:15",
+        "offenses": [
+            "CRIMINAL TRESPASS NOTICE"
+        ],
+        "offense_location": [
+            "5706 MANOR RD, Apt # B,AUSTIN 78723",
+            "21.12",
+            "4",
+            "ID"
+        ],
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-1401107",
+        "report_date_time": "Sat, May-20-2023 18:03",
+        "offense_date_time": "Sat, May-20-2023 17:16",
+        "offenses": [
+            "THEFT BY SHOPLIFTING"
+        ],
+        "offense_location": [
+            "12900 N IH 35 SVRD SB, AUSTIN 78753",
+            "421",
+            "4",
+            "ED"
+        ],
+        "case_summary": "STOLEN",
+        "arrestee_name": "OTHER",
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-1401137",
+        "report_date_time": "Sat, May-20-2023 17:41",
+        "offense_date_time": "Sat, May-20-2023 17:41",
+        "offenses": [
+            "PUBLIC INTOXICATION"
+        ],
+        "offense_location": [
+            "1901 ANITA DR, AUSTIN 78704",
+            "13",
+            "1",
+            "DA"
+        ],
+        "latitude": 30.254357227292598,
+        "longitude": -97.77103282917865
+    },
+    {
+        "report_number": "2023-1401048",
+        "report_date_time": "Sat, May-20-2023 17:47",
+        "offense_date_time": "Sat, May-20-2023 17:47",
+        "offenses": [
+            "BURGLARY OF NON-RESIDENCE INFORMATION"
+        ],
+        "offense_location": [
+            "2001 S LAMAR BLVD, Apt # J,AUSTIN 78704",
+            "13",
+            "1",
+            "DA"
+        ],
+        "latitude": 30.24939383053381,
+        "longitude": -97.76739175121529
+    },
+    {
+        "report_number": "2023-1401050",
+        "report_date_time": "Sat, May-20-2023 17:49",
+        "offense_date_time": "Sat, May-20-2023 17:49",
+        "offenses": [
+            "FAMILY DISTURBANCE",
+            "ASSAULT INFO (FAMILY VIOLENCE"
+        ],
+        "offense_location": [
+            "609 CLAYTON LN, AUSTIN 78752",
+            "15",
+            "8",
+            "ID"
+        ],
+        "latitude": 30.324029601316848,
+        "longitude": -97.71436851778166
+    },
+    {
+        "report_number": "2023-1400853",
+        "report_date_time": "Sat, May-20-2023 17:54",
+        "offense_date_time": "Sat, May-20-2023 17:54",
+        "offenses": [
+            "FOUND PROPERTY"
+        ],
+        "offense_location": [
+            "3755 S CAPITAL OF TEXAS HWY NB, AUSTIN 78704",
+            "19.22",
+            "4",
+            "DA"
+        ],
+        "latitude": 30.243357948304418,
+        "longitude": -97.80151036806973
+    },
+    {
+        "report_number": "2023-1401170",
+        "report_date_time": "Sat, May-20-2023 18:10",
+        "offense_date_time": "Sat, May-20-2023 18:10",
+        "offenses": [
+            "REQUEST TO APPREHEND"
+        ],
+        "offense_location": [
+            "1500 E PARMER LN, AUSTIN 78753",
+            "439",
+            "6",
+            "ED"
+        ],
+        "arrestee_name": ": ROGERS, DERRICK DONELL",
+        "arrestee_gender": "Male",
+        "arrestee_race": "Black",
+        "latitude": "30.39061995",
+        "longitude": "-97.65138144314501"
+    },
+    {
+        "report_number": "2023-1401009",
+        "report_date_time": "Sat, May-20-2023 18:14",
+        "offense_date_time": "Sat, May-20-2023 18:14",
+        "offenses": [
+            "REQUEST TO APPREHEND"
+        ],
+        "offense_location": [
+            "500 E 7TH ST, AUSTIN 78701",
+            "11",
+            "2",
+            "GE"
+        ],
+        "arrestee_name": ": SULACIA, ZACHARY ROBERT",
+        "arrestee_gender": "Male",
+        "arrestee_race": "White",
+        "latitude": 30.26768203900535,
+        "longitude": -97.73782870371957
+    },
+    {
+        "report_number": "2023-1401178",
+        "report_date_time": "Sat, May-20-2023 18:14",
+        "offense_date_time": "Sat, May-20-2023 18:14",
+        "offenses": [
+            "CRIMINAL TRESPASS NOTICE"
+        ],
+        "offense_location": [
+            "10014 N LAMAR BLVD, AUSTIN 78758",
+            "409",
+            "1",
+            "ED"
+        ],
+        "latitude": 30.367933023464673,
+        "longitude": -97.69427351003557
+    },
+    {
+        "report_number": "2023-1401190",
+        "report_date_time": "Sat, May-20-2023 18:21",
+        "offense_date_time": "Sat, May-20-2023 18:21",
+        "offenses": [
+            "THEFT",
+            "CRIMINAL TRESPASS NOTICE"
+        ],
+        "offense_location": [
+            "11200 LAKELINE MALL DR, AUSTIN 78613",
+            "203.34",
+            "6",
+            "AD"
+        ],
+        "case_summary": "STOLEN",
+        "latitude": "30.47051295",
+        "longitude": "-97.80697080824541"
+    },
+    {
+        "report_number": "2023-1401196",
+        "report_date_time": "Sat, May-20-2023 18:25",
+        "offense_date_time": "Sat, May-20-2023 18:25",
+        "offenses": [
+            "POSSESSION OF MARIJUANA",
+            "CRASH"
+        ],
+        "offense_location": [
+            "9381 E US 290 HWY SVRD EB,",
+            "",
+            "",
+            ""
+        ],
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-1401206",
+        "report_date_time": "Sat, May-20-2023 19:07",
+        "offense_date_time": "Sat, May-20-2023 18:25",
+        "offenses": [
+            "PUBLIC INTOXICATION",
+            "THEFT"
+        ],
+        "offense_location": [
+            "525 N LAMAR BLVD, AUSTIN 78703",
+            "12",
+            "1",
+            "GE"
+        ],
+        "case_summary": "STOLEN",
+        "latitude": 30.270651868907233,
+        "longitude": -97.75440659364513
+    },
+    {
+        "report_number": "2023-1401208",
+        "report_date_time": "Sat, May-20-2023 18:31",
+        "offense_date_time": "Sat, May-20-2023 18:31",
+        "offenses": [
+            "HARASSMENT"
+        ],
+        "offense_location": [
+            "3300 BLOCK OAK CREEK DR, AUSTIN 78727",
+            "420",
+            "3",
+            "AD"
+        ],
+        "latitude": 30.42675501420676,
+        "longitude": -97.70440763907635
+    },
+    {
+        "report_number": "2023-1401228",
+        "report_date_time": "Sat, May-20-2023 18:40",
+        "offense_date_time": "Sat, May-20-2023 18:40",
+        "offenses": [
+            "ASSAULT BY THREAT FAM/DATING"
+        ],
+        "offense_location": [
+            "2204 W ANDERSON LN, Apt # B,AUSTIN 78757",
+            "405",
+            "7",
+            "ID"
+        ],
+        "latitude": 30.355321359809352,
+        "longitude": -97.72912918175113
+    },
+    {
+        "report_number": "2023-14012970",
+        "report_date_time": "Sat, May-20-2023 20:10",
+        "offense_date_time": "Sat, May-20-2023 19:00",
+        "offenses": [
+            "CRIMINAL TRESPASS NOTICE"
+        ],
+        "offense_location": [
+            "525 N LAMAR BLVD, AUSTIN 78703",
+            "12",
+            "1",
+            "GE"
+        ],
+        "latitude": 30.270651868907233,
+        "longitude": -97.75440659364513
+    },
+    {
+        "report_number": "2023-1401244",
+        "report_date_time": "Sat, May-20-2023 19:22",
+        "offense_date_time": "Sat, May-20-2023 19:22",
+        "offenses": [
+            "CRIMINAL TRESPASS"
+        ],
+        "offense_location": [
+            "1821 E WILLIAM CANNON DR, AUSTIN 78744",
+            "24.41",
+            "8",
+            "FR"
+        ],
+        "arrestee_name": ": DIAZ, DIANA D MARIE",
+        "arrestee_gender": "Female",
+        "arrestee_race": "White",
+        "latitude": 30.1883418189878,
+        "longitude": -97.7652894980004
+    },
+    {
+        "report_number": "2023-1401269",
+        "report_date_time": "Sat, May-20-2023 19:25",
+        "offense_date_time": "Sat, May-20-2023 19:25",
+        "offenses": [
+            "FIELD OBSERVATION"
+        ],
+        "offense_location": [
+            "S IH 35 SVRD NB / E BEN WHITE BLVD SVRD EB, AUSTIN 78741",
+            "24.11",
+            "6",
+            "FR"
+        ],
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-14011610",
+        "report_date_time": "Sat, May-20-2023 19:28",
+        "offense_date_time": "Sat, May-20-2023 19:25",
+        "offenses": [
+            "CRASH/LEAVING THE SCENE"
+        ],
+        "offense_location": [
+            "1900 E RIVERSIDE DR, AUSTIN 78741",
+            "23",
+            "2",
+            "HE"
+        ],
+        "latitude": 30.24221618883002,
+        "longitude": -97.72848943870876
+    },
+    {
+        "report_number": "2023-1401317",
+        "report_date_time": "Sat, May-20-2023 20:05",
+        "offense_date_time": "Sat, May-20-2023 19:30",
+        "offenses": [
+            "FAMILY DISTURBANCE"
+        ],
+        "offense_location": [
+            "1201 W 38TH ST, AUSTIN 78705",
+            "2",
+            "3",
+            "BA"
+        ],
+        "latitude": 30.30604030465269,
+        "longitude": -97.74496728251847
+    },
+    {
+        "report_number": "2023-1401338",
+        "report_date_time": "Sat, May-20-2023 19:42",
+        "offense_date_time": "Sat, May-20-2023 19:42",
+        "offenses": [
+            "DWI 2ND"
+        ],
+        "offense_location": [
+            "6911 N FM 620 RD, AUSTIN 78730",
+            "350",
+            "8",
+            "AD"
+        ],
+        "arrestee_name": ": DERAS, RODOLFO CARLOS",
+        "arrestee_gender": "Male",
+        "arrestee_race": "White",
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-1401346",
+        "report_date_time": "Sat, May-20-2023 19:51",
+        "offense_date_time": "Sat, May-20-2023 19:51",
+        "offenses": [
+            "CRIMINAL TRESPASS NOTICE"
+        ],
+        "offense_location": [
+            "2506 W PARMER LN, AUSTIN 78727",
+            "421",
+            "3",
+            "AD"
+        ],
+        "latitude": 30.418902049297213,
+        "longitude": -97.70190129886576
+    },
+    {
+        "report_number": "2023-1400964",
+        "report_date_time": "Sat, May-20-2023 19:56",
+        "offense_date_time": "Sat, May-20-2023 19:56",
+        "offenses": [
+            "CRIMINAL TRESPASS NOTICE"
+        ],
+        "offense_location": [
+            "7206 ED BLUESTEIN BLVD SVRD SB, AUSTIN 78723",
+            "21",
+            "4",
+            "CH"
+        ],
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-1401737",
+        "report_date_time": "Sat, May-20-2023 23:41",
+        "offense_date_time": "Sat, May-20-2023 20:00",
+        "offenses": [
+            "AUTO THEFT"
+        ],
+        "offense_location": [
+            "12435 DESSAU RD, Apt # 911,AUSTIN 78754",
+            "449",
+            "6",
+            "ED"
+        ],
+        "case_summary": "STOLEN",
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-1401362",
+        "report_date_time": "Sat, May-20-2023 20:08",
+        "offense_date_time": "Sat, May-20-2023 20:08",
+        "offenses": [
+            "CRIMINAL TRESPASS NOTICE"
+        ],
+        "offense_location": [
+            "7112 ED BLUESTEIN BLVD SVRD SB, AUSTIN 78723",
+            "21",
+            "4",
+            "CH"
+        ],
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-5012536",
+        "report_date_time": "Sat, May-20-2023 20:10",
+        "offense_date_time": "Sat, May-20-2023 20:10",
+        "offenses": [
+            "DECEASED PERSON"
+        ],
+        "offense_location": [
+            "1211 BONNIE BRAE, AUSTIN 78753",
+            "416",
+            "7",
+            "ED"
+        ],
+        "latitude": 30.358096098285575,
+        "longitude": -97.67753378553847
+    },
+    {
+        "report_number": "2023-1401368",
+        "report_date_time": "Sat, May-20-2023 20:15",
+        "offense_date_time": "Sat, May-20-2023 20:15",
+        "offenses": [
+            "CRIMINAL TRESPASS"
+        ],
+        "offense_location": [
+            "3700 GUADALUPE ST, AUSTIN 78705",
+            "2",
+            "3",
+            "BA"
+        ],
+        "latitude": 30.30202790202691,
+        "longitude": -97.7386090972697
+    },
+    {
+        "report_number": "2023-1401374",
+        "report_date_time": "Sat, May-20-2023 20:16",
+        "offense_date_time": "Sat, May-20-2023 20:16",
+        "offenses": [
+            "FAMILY DISTURBANCE"
+        ],
+        "offense_location": [
+            "3016 GUADALUPE ST, AUSTIN 78705",
+            "2",
+            "3",
+            "BA"
+        ],
+        "latitude": 30.296957221883837,
+        "longitude": -97.74180460170244
+    },
+    {
+        "report_number": "2023-1401383",
+        "report_date_time": "Sat, May-20-2023 20:20",
+        "offense_date_time": "Sat, May-20-2023 20:20",
+        "offenses": [
+            "THEFT",
+            "REQUEST TO APPREHEND"
+        ],
+        "offense_location": [
+            "9300 S IH 35 SVRD SB, AUSTIN 78748",
+            "24.37",
+            "2",
+            "FR"
+        ],
+        "arrestee_name": ": RICKELS, ALEXIS LEIGHANNA",
+        "arrestee_gender": "Female",
+        "arrestee_race": "White",
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-1401222",
+        "report_date_time": "Sat, May-20-2023 20:21",
+        "offense_date_time": "Sat, May-20-2023 20:21",
+        "offenses": [
+            "FAMILY DISTURBANCE"
+        ],
+        "offense_location": [
+            "1333 W BEN WHITE BLVD SVRD EB, AUSTIN 78745",
+            "20",
+            "3",
+            "DA"
+        ],
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-1401380",
+        "report_date_time": "Sat, May-20-2023 20:50",
+        "offense_date_time": "Sat, May-20-2023 20:22",
+        "offenses": [
+            "CRIMINAL TRESPASS"
+        ],
+        "offense_location": [
+            "2204 WOODLAND AVE, AUSTIN 78741",
+            "23.16",
+            "2",
+            "HE"
+        ],
+        "arrestee_name": ": PESINA, ANTHONY ROBLEDO",
+        "arrestee_gender": "Male",
+        "arrestee_race": "White",
+        "latitude": 30.235901882943413,
+        "longitude": -97.72835712530471
+    },
+    {
+        "report_number": "2023-1401343",
+        "report_date_time": "Sat, May-20-2023 20:24",
+        "offense_date_time": "Sat, May-20-2023 20:24",
+        "offenses": [
+            "INJURED ANIMAL-FIREARM USED"
+        ],
+        "offense_location": [
+            "2209 RIVER HILLS RD, AUSTIN 78733",
+            "19.12",
+            "8",
+            "BA"
+        ],
+        "investigator_assigned": "AP6097 - ESCAMILLA, ROBERT",
+        "latitude": 30.338783841523487,
+        "longitude": -97.84967767150714
+    },
+    {
+        "report_number": "2023-5012537",
+        "report_date_time": "Sat, May-20-2023 20:24",
+        "offense_date_time": "Sat, May-20-2023 20:24",
+        "offenses": [
+            "SUSPICIOUS PERSON"
+        ],
+        "offense_location": [
+            "3311 RED RIVER ST, Apt # 305,AUSTIN 78705",
+            "4",
+            "1",
+            "BA"
+        ],
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-1401357",
+        "report_date_time": "Sat, May-20-2023 20:29",
+        "offense_date_time": "Sat, May-20-2023 20:29",
+        "offenses": [
+            "ASSIST COMPLAINANT"
+        ],
+        "offense_location": [
+            "6400 KEN CARYL DR, AUSTIN 78747",
+            "24.39",
+            "7",
+            "FR"
+        ],
+        "latitude": 30.15812853983205,
+        "longitude": -97.74277394356112
+    },
+    {
+        "report_number": "2023-1401493",
+        "report_date_time": "Sat, May-20-2023 21:26",
+        "offense_date_time": "Sat, May-20-2023 20:30",
+        "offenses": [
+            "AGG ASSAULT FAM/DATE VIOLENCE"
+        ],
+        "offense_location": [
+            "2107 TRANQUILO TRL, AUSTIN 78744",
+            "24.41",
+            "8",
+            "FR"
+        ],
+        "latitude": 30.180125919302697,
+        "longitude": -97.76716649215203
+    },
+    {
+        "report_number": "2023-1401223",
+        "report_date_time": "Sat, May-20-2023 20:34",
+        "offense_date_time": "Sat, May-20-2023 20:34",
+        "offenses": [
+            "FAMILY DISTURBANCE"
+        ],
+        "offense_location": [
+            "8403 RIVERSTONE DR, AUSTIN 78724",
+            "22.22",
+            "7",
+            "CH"
+        ],
+        "latitude": 30.29381605438364,
+        "longitude": -97.62796490012553
+    },
+    {
+        "report_number": "2023-1401330",
+        "report_date_time": "Sat, May-20-2023 20:35",
+        "offense_date_time": "Sat, May-20-2023 20:35",
+        "offenses": [
+            "PUBLIC INTOXICATION"
+        ],
+        "offense_location": [
+            "DEERBROOK TRL / N FM 620 RD, AUSTIN 78613",
+            "204",
+            "6",
+            "AD"
+        ],
+        "arrestee_name": ": CADENA, CARMEN MARIE",
+        "arrestee_gender": "Female",
+        "arrestee_race": "White",
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-1401420",
+        "report_date_time": "Sat, May-20-2023 20:45",
+        "offense_date_time": "Sat, May-20-2023 20:45",
+        "offenses": [
+            "ASSAULT W/INJURY-FAM/DATE VIOL"
+        ],
+        "offense_location": [
+            "11500 EL SALIDO PKWY, AUSTIN 78750",
+            "204",
+            "6",
+            "AD"
+        ],
+        "arrestee_name": ": SMITH, HAILLEY NICOLE",
+        "arrestee_gender": "Female",
+        "arrestee_race": "Black",
+        "latitude": 30.45546379415474,
+        "longitude": -97.81936423254567
+    },
+    {
+        "report_number": "2023-1401430",
+        "report_date_time": "Sat, May-20-2023 21:54",
+        "offense_date_time": "Sat, May-20-2023 20:51",
+        "offenses": [
+            "THEFT",
+            "AGG ROBBERY/DEADLY WEAPON",
+            "AUTO THEFT"
+        ],
+        "offense_location": [
+            "6710 LOYOLA LN, AUSTIN 78724",
+            "22.22",
+            "7",
+            "CH"
+        ],
+        "investigator_assigned": "AP7701 - GREEN, SHAWN",
+        "case_summary": "STOLEN",
+        "arrestee_name": "CREDIT DEBIT CARDS",
+        "latitude": 30.29931558780915,
+        "longitude": -97.64622700727378
+    },
+    {
+        "report_number": "2023-1401433",
+        "report_date_time": "Sat, May-20-2023 21:17",
+        "offense_date_time": "Sat, May-20-2023 20:53",
+        "offenses": [
+            "CRIMINAL TRESPASS NOTICE"
+        ],
+        "offense_location": [
+            "3101 GUADALUPE ST, AUSTIN 78705",
+            "5",
+            "1",
+            "BA"
+        ],
+        "latitude": 30.29791348899644,
+        "longitude": -97.74117224026364
+    },
+    {
+        "report_number": "2023-1401438",
+        "report_date_time": "Sat, May-20-2023 20:55",
+        "offense_date_time": "Sat, May-20-2023 20:55",
+        "offenses": [
+            "CRIMINAL TRESPASS NOTICE"
+        ],
+        "offense_location": [
+            "9300 S IH 35 SVRD SB, AUSTIN 78748",
+            "24.37",
+            "2",
+            "FR"
+        ],
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-1401439",
+        "report_date_time": "Sat, May-20-2023 21:07",
+        "offense_date_time": "Sat, May-20-2023 21:07",
+        "offenses": [
+            "CRIMINAL MISCHIEF INFORMATION"
+        ],
+        "offense_location": [
+            "3322 S FM 620 RD, LAKEWAY 78738",
+            "370",
+            "88",
+            "88"
+        ],
+        "case_summary": "DAMAGED",
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-1401464",
+        "report_date_time": "Sat, May-20-2023 21:12",
+        "offense_date_time": "Sat, May-20-2023 21:12",
+        "offenses": [
+            "CRIMINAL TRESPASS NOTICE",
+            "CRIMINAL MISCHIEF INFORMATION"
+        ],
+        "offense_location": [
+            "1901 CAPITAL PKWY, AUSTIN 78746",
+            "19.10",
+            "5",
+            "DA"
+        ],
+        "latitude": 30.26006033573478,
+        "longitude": -97.79828249913287
+    },
+    {
+        "report_number": "2023-1401465",
+        "report_date_time": "Sat, May-20-2023 21:12",
+        "offense_date_time": "Sat, May-20-2023 21:12",
+        "offenses": [
+            "CRIMINAL TRESPASS NOTICE",
+            "ASSAULT INFORMATION"
+        ],
+        "offense_location": [
+            "1614 E 6TH ST, AUSTIN 78702",
+            "9",
+            "1",
+            "CH"
+        ],
+        "latitude": 30.26293164632251,
+        "longitude": -97.72611823846705
+    },
+    {
+        "report_number": "2023-1401481",
+        "report_date_time": "Sun, May-21-2023 01:24",
+        "offense_date_time": "Sat, May-20-2023 21:21",
+        "offenses": [
+            "VIOL STATE LAW - OTHER"
+        ],
+        "offense_location": [
+            "13208 KEARNS DR, AUSTIN 78660",
+            "449",
+            "8",
+            "ED"
+        ],
+        "arrestee_name": ": WILLIAMS, RUBEN EUGENE SR",
+        "arrestee_gender": "Male",
+        "arrestee_race": "Black",
+        "latitude": 30.391986971272278,
+        "longitude": -97.62134795329895
+    },
+    {
+        "report_number": "2023-1401431",
+        "report_date_time": "Sat, May-20-2023 21:23",
+        "offense_date_time": "Sat, May-20-2023 21:23",
+        "offenses": [
+            "FAMILY DISTURBANCE"
+        ],
+        "offense_location": [
+            "9413 JENARO CT, AUSTIN 78726",
+            "344",
+            "8",
+            "AD"
+        ],
+        "latitude": 30.43111883737654,
+        "longitude": -97.83564370190895
+    },
+    {
+        "report_number": "2023-1401487",
+        "report_date_time": "Sat, May-20-2023 21:51",
+        "offense_date_time": "Sat, May-20-2023 21:24",
+        "offenses": [
+            "FAMILY DISTURBANCE"
+        ],
+        "offense_location": [
+            "4159 STECK AVE, Apt # 184,AUSTIN 78759",
+            "301",
+            "8",
+            "BA"
+        ],
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-1401500",
+        "report_date_time": "Sat, May-20-2023 21:29",
+        "offense_date_time": "Sat, May-20-2023 21:26",
+        "offenses": [
+            "THEFT",
+            "ROBBERY INFORMATION"
+        ],
+        "offense_location": [
+            "11724 RESEARCH BLVD SVRD SB, AUSTIN 78759",
+            "25",
+            "7",
+            "AD"
+        ],
+        "latitude": 30.419852013215742,
+        "longitude": -97.74747352161191
+    },
+    {
+        "report_number": "2023-1401498",
+        "report_date_time": "Sat, May-20-2023 21:29",
+        "offense_date_time": "Sat, May-20-2023 21:29",
+        "offenses": [
+            "POSSESSION OF MARIJUANA"
+        ],
+        "offense_location": [
+            "4200 BLOCK N IH 35 NB, AUSTIN 78751",
+            "3",
+            "5",
+            "BA"
+        ],
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-1401683",
+        "report_date_time": "Sat, May-20-2023 23:10",
+        "offense_date_time": "Sat, May-20-2023 21:30",
+        "offenses": [
+            "FORCED SODOMY"
+        ],
+        "offense_location": [
+            "2200 BLOCK LAKESHORE BLVD,",
+            "",
+            "",
+            ""
+        ],
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-5012541",
+        "report_date_time": "Sat, May-20-2023 21:32",
+        "offense_date_time": "Sat, May-20-2023 21:32",
+        "offenses": [
+            "REQUEST TO LOCATE"
+        ],
+        "offense_location": [
+            "6712 N LAMAR BLVD, AUSTIN 78757",
+            "15",
+            "7",
+            "ID"
+        ],
+        "latitude": 30.33467209612104,
+        "longitude": -97.7208193680284
+    },
+    {
+        "report_number": "2023-1401515",
+        "report_date_time": "Sat, May-20-2023 22:16",
+        "offense_date_time": "Sat, May-20-2023 21:38",
+        "offenses": [
+            "BURGLARY OF RESIDENCE INFORMATION"
+        ],
+        "offense_location": [
+            "3011 SPEEDWAY, Apt # 6,AUSTIN 78705",
+            "5",
+            "1",
+            "BA"
+        ],
+        "latitude": 30.293294452684076,
+        "longitude": -97.73588270582948
+    },
+    {
+        "report_number": "2023-1401536",
+        "report_date_time": "Sat, May-20-2023 21:50",
+        "offense_date_time": "Sat, May-20-2023 21:50",
+        "offenses": [
+            "FAMILY DISTURBANCE"
+        ],
+        "offense_location": [
+            "1700 TERI RD, Apt # 512,AUSTIN 78744",
+            "24.11",
+            "5",
+            "FR"
+        ],
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-1401546",
+        "report_date_time": "Sat, May-20-2023 22:37",
+        "offense_date_time": "Sat, May-20-2023 21:52",
+        "offenses": [
+            "FAMILY DISTURBANCE"
+        ],
+        "offense_location": [
+            "11441 N IH 35 SVRD NB, Apt # 24101,AUSTIN 78753",
+            "415",
+            "7",
+            "ED"
+        ],
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-1401427",
+        "report_date_time": "Sat, May-20-2023 22:00",
+        "offense_date_time": "Sat, May-20-2023 22:00",
+        "offenses": [
+            "FICTITIOUS LICENSE PLATE",
+            "AUTO THEFT INFORMATION"
+        ],
+        "offense_location": [
+            "10515 N MOPAC EXPY SVRD NB, AUSTIN 78759",
+            "324",
+            "1",
+            "AD"
+        ],
+        "latitude": 30.39213326568915,
+        "longitude": -97.73302330864595
+    },
+    {
+        "report_number": "2023-1401769",
+        "report_date_time": "Sat, May-20-2023 23:50",
+        "offense_date_time": "Sat, May-20-2023 22:00",
+        "offenses": [
+            "ASSAULT WITH INJURY"
+        ],
+        "offense_location": [
+            "1215 RED RIVER ST, AUSTIN 78701",
+            "7",
+            "1",
+            "BA"
+        ],
+        "latitude": 30.272551603021352,
+        "longitude": -97.73497187463622
+    },
+    {
+        "report_number": "2023-5012542",
+        "report_date_time": "Sat, May-20-2023 22:32",
+        "offense_date_time": "Sat, May-20-2023 22:00",
+        "offenses": [
+            "BURGLARY OF VEHICLE"
+        ],
+        "offense_location": [
+            "10000 RESEARCH BLVD SVRD SB, AUSTIN 78759",
+            "308",
+            "7",
+            "AD"
+        ],
+        "case_summary": "STOLEN",
+        "arrestee_name": "PHOTOGRAPHIC / OPTICAL EQUIPMENT",
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-1401484",
+        "report_date_time": "Sat, May-20-2023 22:05",
+        "offense_date_time": "Sat, May-20-2023 22:05",
+        "offenses": [
+            "FAMILY DISTURBANCE"
+        ],
+        "offense_location": [
+            "11215 RESEARCH BLVD SVRD NB, Apt # 2022,AUSTIN 78759",
+            "325",
+            "2",
+            "AD"
+        ],
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-1401582",
+        "report_date_time": "Sat, May-20-2023 22:14",
+        "offense_date_time": "Sat, May-20-2023 22:14",
+        "offenses": [
+            "CRASH/LEAVING THE SCENE"
+        ],
+        "offense_location": [
+            "300 W ANDERSON LN EB, AUSTIN 78752",
+            "400",
+            "8",
+            "ID"
+        ],
+        "latitude": 30.345349547416323,
+        "longitude": -97.70695597072029
+    },
+    {
+        "report_number": "2023-5012544",
+        "report_date_time": "Sat, May-20-2023 22:16",
+        "offense_date_time": "Sat, May-20-2023 22:16",
+        "offenses": [
+            "ASSAULT BY CONTACT"
+        ],
+        "offense_location": [
+            "1500 E PARMER LN, Apt # 732,AUSTIN 78753",
+            "439",
+            "6",
+            "ED"
+        ],
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-1401598",
+        "report_date_time": "Sun, May-21-2023 00:31",
+        "offense_date_time": "Sat, May-20-2023 22:19",
+        "offenses": [
+            "SEXUAL ASSAULT INFORMATION"
+        ],
+        "offense_location": [
+            "1500 BLOCK RED RIVER ST, AUSTIN 78701",
+            "7",
+            "1",
+            "BA"
+        ],
+        "latitude": 30.275551215233907,
+        "longitude": -97.73443959095385
+    },
+    {
+        "report_number": "2023-1401600",
+        "report_date_time": "Sat, May-20-2023 22:22",
+        "offense_date_time": "Sat, May-20-2023 22:22",
+        "offenses": [
+            "CRIMINAL TRESPASS NOTICE"
+        ],
+        "offense_location": [
+            "9500 S IH 35 SVRD SB, AUSTIN 78748",
+            "24.37",
+            "2",
+            "FR"
+        ],
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-1401617",
+        "report_date_time": "Sat, May-20-2023 22:28",
+        "offense_date_time": "Sat, May-20-2023 22:28",
+        "offenses": [
+            "FAMILY DISTURBANCE"
+        ],
+        "offense_location": [
+            "13508 OREGON FLAT TRL, AUSTIN 78727",
+            "452",
+            "3",
+            "AD"
+        ],
+        "latitude": 30.42657505384151,
+        "longitude": -97.68306320519748
+    },
+    {
+        "report_number": "2023-1401538",
+        "report_date_time": "Sat, May-20-2023 22:29",
+        "offense_date_time": "Sat, May-20-2023 22:29",
+        "offenses": [
+            "CRASH/LEAVE SCENE-NO SUSPECT"
+        ],
+        "offense_location": [
+            "14100 N US 183 HWY SVRD SB, AUSTIN",
+            "",
+            "",
+            ""
+        ],
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-1401621",
+        "report_date_time": "Sat, May-20-2023 22:30",
+        "offense_date_time": "Sat, May-20-2023 22:30",
+        "offenses": [
+            "CRIMINAL TRESPASS"
+        ],
+        "offense_location": [
+            "9001 NORTHGATE BLVD, AUSTIN 78758",
+            "407",
+            "2",
+            "ED"
+        ],
+        "arrestee_name": ": MONROY-MUC, DANNY NELSON",
+        "arrestee_gender": "Male",
+        "arrestee_race": "White",
+        "latitude": 30.368949678010274,
+        "longitude": -97.71751315105853
+    },
+    {
+        "report_number": "2023-21401647",
+        "report_date_time": "Sat, May-20-2023 22:30",
+        "offense_date_time": "Sat, May-20-2023 22:30",
+        "offenses": [
+            "CRASH/LEAVING THE SCENE"
+        ],
+        "offense_location": [
+            "9001 NORTHGATE BLVD, AUSTIN 78758",
+            "407",
+            "2",
+            "ED"
+        ],
+        "latitude": 30.368949678010274,
+        "longitude": -97.71751315105853
+    },
+    {
+        "report_number": "2023-1401665",
+        "report_date_time": "Sat, May-20-2023 23:00",
+        "offense_date_time": "Sat, May-20-2023 23:00",
+        "offenses": [
+            "FAMILY DISTURBANCE"
+        ],
+        "offense_location": [
+            "5712 ALOMAR CV, AUSTIN 78617",
+            "24.53",
+            "7",
+            "HE"
+        ],
+        "latitude": 30.169970871147648,
+        "longitude": -97.61884453643124
+    },
+    {
+        "report_number": "2023-1401705",
+        "report_date_time": "Sat, May-20-2023 23:21",
+        "offense_date_time": "Sat, May-20-2023 23:00",
+        "offenses": [
+            "ASSAULT WITH INJURY"
+        ],
+        "offense_location": [
+            "W OLTORF ST / EUCLID AVE, AUSTIN 78704",
+            "13.12",
+            "1",
+            "DA"
+        ],
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-1401669",
+        "report_date_time": "Sat, May-20-2023 23:02",
+        "offense_date_time": "Sat, May-20-2023 23:02",
+        "offenses": [
+            "DISTURBANCE - OTHER"
+        ],
+        "offense_location": [
+            "3909 S CONGRESS AVE, AUSTIN 78704",
+            "23.22",
+            "2",
+            "DA"
+        ],
+        "latitude": 30.224173252099053,
+        "longitude": -97.76317600467439
+    },
+    {
+        "report_number": "2023-1401532",
+        "report_date_time": "Sat, May-20-2023 23:19",
+        "offense_date_time": "Sat, May-20-2023 23:19",
+        "offenses": [
+            "REQUEST TO APPREHEND"
+        ],
+        "offense_location": [
+            "105 W LONGSPUR BLVD, AUSTIN 78753",
+            "410",
+            "1",
+            "ED"
+        ],
+        "arrestee_name": ": GUERRA, MAURICIO JOSHUA",
+        "arrestee_gender": "Male",
+        "arrestee_race": "White",
+        "latitude": 30.365582674408497,
+        "longitude": -97.69002842618572
+    },
+    {
+        "report_number": "2023-5012543",
+        "report_date_time": "Sat, May-20-2023 23:39",
+        "offense_date_time": "Sat, May-20-2023 23:39",
+        "offenses": [
+            "FOUND PROPERTY"
+        ],
+        "offense_location": [
+            "812 SPRINGDALE RD, AUSTIN 78702",
+            "9",
+            "2",
+            "CH"
+        ],
+        "latitude": 30.258661493091704,
+        "longitude": -97.699982404424
+    },
+    {
+        "report_number": "2023-1401749",
+        "report_date_time": "Sun, May-21-2023 00:25",
+        "offense_date_time": "Sat, May-20-2023 23:47",
+        "offenses": [
+            "FIELD OBSERVATION"
+        ],
+        "offense_location": [
+            "2400 E ANDERSON LN SVRD EB, AUSTIN 78752",
+            "402",
+            "2",
+            "ID"
+        ],
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    },
+    {
+        "report_number": "2023-1401759",
+        "report_date_time": "Sat, May-20-2023 23:50",
+        "offense_date_time": "Sat, May-20-2023 23:50",
+        "offenses": [
+            "ASSAULT INFORMATION"
+        ],
+        "offense_location": [
+            "4200 BLOCK S CONGRESS AVE, AUSTIN 78745",
+            "20",
+            "3",
+            "DA"
+        ],
+        "latitude": "\",\"zoom\":11",
+        "longitude": "\"zoom\":11.0,\"reverseI"
+    }
+]
