@@ -1,42 +1,229 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
+
 <head>
-    <meta charset="UTF-8">
-    <title>Austin Digital Twin</title>
-
-    <script src="https://cesium.com/downloads/cesiumjs/releases/1.105.1/Build/Cesium/Cesium.js"></script>
-    <link href="https://cesium.com/downloads/cesiumjs/releases/1.105.1/Build/Cesium/Widgets/widgets.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://smartcity.tacc.utexas.edu/FireIncident/Demo3D/assets/css/fireMap.css">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/gh/cesium-plugin/cesium-popup-es6@main/dist/cesium-popup-es6.umd.js"></script>
-  
-  
-    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="style.css">
 </head>
-<body>
-    <div id="cesiumContainer" style="position: absolute;width: 100%;height:100%;"></div>
 
-    <div id="sidebar" class="sidebar closed">
-        <div class="header">
-            <h1 style="font-size: 1.2rem;"><i class="fas fa-city" style="margin-right: 10px;font-size: large;"></i>
-                Austin Digital Twin</h1>
-            <!-- <p>Work in progress</p> -->
-        </div>
-        <h2 style="font-size: 1.1rem;margin-bottom: 20px;">Recent Events</h2>
-        <div class="accordion" id="eventsAccordion">
-            <!-- Events will be dynamically added here -->
+<body style="overflow-x:hidden;">
+
+    <div class="solid-white-navbar">
+        <div data-animation="default" data-collapse="medium" data-duration="600" data-easing="ease-in-out" data-easing2="ease-in-out" role="banner" class="navbar-logo-left-container shadow-three w-nav">
+            <div class="brand-logo-wrapper"><a href="/" class="link-block w-inline-block"><img src="https://sites.utexas.edu/uil/files/2020/05/UIL-Final-Logos-03-e1588717100882.png" loading="lazy" width="228" alt="" class="brand-logo"></a></div>
+            <div data-w-id="f188ce72-b6a4-5ff0-f185-9edfaa495082" class="links-wrapper" style="opacity: 1;">
+                <div class="navbar-wrapper-2-copy">
+                    <div class="search-block">
+                        <div data-hover="false" data-delay="0.1" class="dropdown-3 w-dropdown">
+                            <div class="dropdown-toggle-4 w-dropdown-toggle" id="w-dropdown-toggle-0" aria-controls="w-dropdown-list-0" aria-haspopup="menu" aria-expanded="false" role="button" tabindex="0">
+                                <div class="div-block-58-copy"></div>
+                            </div>
+                            <address class="dropdown-list-4 w-dropdown-list" id="w-dropdown-list-0" aria-labelledby="w-dropdown-toggle-0">
+                                <form action="/search" class="search w-form"><input type="search" class="search-input w-input" maxlength="256" name="query" placeholder="Search…" id="search" required=""><input type="submit" value="SEARCH" class="search-button w-button"></form>
+                            </address>
+                        </div>
+                    </div>
+                    <nav role="navigation" class="nav-menu-wrapper-2 w-nav-menu">
+                        <ul role="list" class="nav-button-pc w-list-unstyled">
+                            <li class="list-item-copy">
+                                <div data-hover="true" data-delay="300" data-w-id="f188ce72-b6a4-5ff0-f185-9edfaa49508f" class="solutions-dropdown w-dropdown">
+                                    <div class="dropdown-toggle w-dropdown-toggle" id="w-dropdown-toggle-1" aria-controls="w-dropdown-list-1" aria-haspopup="menu" aria-expanded="false" role="button" tabindex="0">
+                                        <!-- <div class="text-block-5-copy">FIRE</div> -->
+                                        <a href="https://fire.austindigitaltwin.com" class="text-block-5-copy">FIRE</a>
+                                        <!-- <div class="icon w-icon-dropdown-toggle" aria-hidden="true" style="opacity: 1;"></div> -->
+                                    </div>
+                                    <address class="dropdown-list w-dropdown-list" id="w-dropdown-list-1" aria-labelledby="w-dropdown-toggle-1" style="opacity: 0;">
+                                        <div class="w-layout-grid grid-container">
+                                            <div class="dropdown-content">
+                                                <div class="dropdown-info"><a href="/solutions/trailer-unloading" class="drop-down-link" tabindex="0">Trailer Unloading</a><a href="/solutions/case-picking" class="drop-down-link" tabindex="0">Case Picking</a><a href="/solutions/palletization" class="drop-down-link" tabindex="0">Palletization</a></div>
+                                                <div class="dropdown-info"><a href="/solutions/machine-tending" class="drop-down-link" tabindex="0">Machine Tending</a><a href="/solutions/workcell-delivery" class="drop-down-link" tabindex="0">Workcell Delivery</a></div>
+                                            </div>
+                                            <div class="drop-down-image"></div>
+                                        </div>
+                                    </address>
+                                </div>
+                            </li>
+                            <li class="list-item-copy">
+                                <div data-hover="true" data-delay="300" data-w-id="f188ce72-b6a4-5ff0-f185-9edfaa4950a7" class="solutions-dropdown w-dropdown">
+                                    <div class="dropdown-toggle w-dropdown-toggle" id="w-dropdown-toggle-2" aria-controls="w-dropdown-list-2" aria-haspopup="menu" aria-expanded="false" role="button" tabindex="0">
+                                        <a href="https://crime.austindigitaltwin.com" class="text-block-5-copy">CRIME</a>
+                                        <!-- <div class="icon w-icon-dropdown-toggle" aria-hidden="true" style="opacity: 1;"></div> -->
+                                    </div>
+                                    <address class="dropdown-list w-dropdown-list" id="w-dropdown-list-2" aria-labelledby="w-dropdown-toggle-2" style="opacity: 0;">
+                                        <div class="w-layout-grid grid-container industries">
+                                            <div class="dropdown-content">
+                                                <div class="dropdown-info"><a href="/industries/3pl" class="drop-down-link" tabindex="0">3PL</a><a href="/industries/retail" class="drop-down-link" tabindex="0">ReTAIL</a><a href="/industries/manufacturing" class="drop-down-link" tabindex="0">MAnufacturing</a></div>
+                                                <div class="dropdown-info"><a href="/industries/retail" class="drop-down-link" tabindex="0"></a></div>
+                                            </div>
+                                            <div class="drop-down-image"></div>
+                                        </div>
+                                    </address>
+                                </div>
+                            </li>
+                            <li class="list-item-copy">
+                                <div data-hover="true" data-delay="300" data-w-id="f188ce72-b6a4-5ff0-f185-9edfaa4950b9" class="solutions-dropdown w-dropdown">
+                                    <div class="dropdown-toggle w-dropdown-toggle" id="w-dropdown-toggle-3" aria-controls="w-dropdown-list-3" aria-haspopup="menu" aria-expanded="false" role="button" tabindex="0"><a href="/product-page" class="link-block-2 w-inline-block">
+                                            <!-- <div class="text-block-5-copy">TRAFFIC</div> -->
+                                            <a href="https://traffic.austindigitaltwin.com" class="text-block-5-copy">TRAFFIC</a>
+                                        </a></div>
+                                </div>
+                            </li>
+                            <li class="list-item-copy">
+                                <div data-hover="true" data-delay="300" data-w-id="f188ce72-b6a4-5ff0-f185-9edfaa4950cd" class="solutions-dropdown w-dropdown" style="">
+                                    <div class="dropdown-toggle w-dropdown-toggle" id="w-dropdown-toggle-4" aria-controls="w-dropdown-list-4" aria-haspopup="menu" aria-expanded="false" role="button" tabindex="0">
+                                        <!-- <div class="text-block-5-copy">EMS</div> -->
+                                        <a href="https://ems.austindigitaltwin.com" class="text-block-5-copy">CRIME</a>
+                                        <div class="icon w-icon-dropdown-toggle" aria-hidden="true" style="opacity: 0;"></div>
+                                    </div>
+                                    <address class="dropdown-list w-dropdown-list" id="w-dropdown-list-4" aria-labelledby="w-dropdown-toggle-4" style="opacity: 0;">
+                                        <div class="w-layout-grid grid-container industries">
+                                            <div class="dropdown-content">
+                                                <div class="dropdown-info"><a href="/videos" class="drop-down-link" tabindex="0">VIDEOS</a><a href="/blog-page" class="drop-down-link" tabindex="0">BLOG</a></div>
+                                            </div>
+                                            <div class="drop-down-image"></div>
+                                        </div>
+                                    </address>
+                                </div>
+                            </li>
+                            <li class="list-item-copy">
+                                <div data-hover="true" data-delay="300" data-w-id="f188ce72-b6a4-5ff0-f185-9edfaa4950df" class="solutions-dropdown w-dropdown">
+                                    <div class="dropdown-toggle w-dropdown-toggle" id="w-dropdown-toggle-5" aria-controls="w-dropdown-list-5" aria-haspopup="menu" aria-expanded="false" role="button" tabindex="0">
+                                        <!-- <div class="text-block-5-copy">ABOUT</div> -->
+                                        <a href="https://sites.utexas.edu/uil" class="text-block-5-copy">ABOUT</a>
+                                        <!-- <div class="icon w-icon-dropdown-toggle" aria-hidden="true" style="opacity: 1;"></div> -->
+                                    </div>
+                                    <address class="dropdown-list w-dropdown-list" id="w-dropdown-list-5" aria-labelledby="w-dropdown-toggle-5" style="opacity: 0;">
+                                        <div class="w-layout-grid grid-container">
+                                            <div class="dropdown-content">
+                                                <div class="dropdown-info"><a href="/about-us-2" aria-current="page" class="drop-down-link w--current" tabindex="0">About Us</a><a href="/our-work-3" class="drop-down-link" tabindex="0">Our work</a><a href="/news2" class="drop-down-link" tabindex="0">In the News</a><a href="/contact-us" class="drop-down-link" tabindex="0">Contact Us</a></div>
+                                                <div class="dropdown-info"><a href="/press-release" class="drop-down-link" tabindex="0">Press Releases</a><a href="/leadership" class="drop-down-link" tabindex="0">Leadership</a><a href="/careers" class="drop-down-link" tabindex="0">Careers</a></div>
+                                            </div>
+                                            <div class="drop-down-image"></div>
+                                        </div>
+                                    </address>
+                                </div>
+                            </li>
+                            <li class="mobile-getstarted"><a href="#" class="button-primary w-button">Get Started</a></li>
+                        </ul>
+                    </nav>
+                    <ul role="list" class="pc-get-started-link w-list-unstyled">
+                        <li class="pc-getstarted-copy"><a href="/contact-us" class="button-primary w-button">Get Started</a></li>
+                    </ul>
+                    <div class="menu-button-2 w-nav-button" style="-webkit-user-select: text;" aria-label="menu" role="button" tabindex="0" aria-controls="w-nav-overlay-0" aria-haspopup="menu" aria-expanded="false">
+                        <div class="icon-2 w-icon-nav-menu"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="w-nav-overlay" data-wf-ignore="" id="w-nav-overlay-0"></div>
         </div>
     </div>
-    <!-- cesium map -->
 
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
-    <script src="main.js"></script>
-    <script src="cesium.js"></script>
+<section class="hero">
+    <div class="w-layout-blockcontainer w-container">
+        <h1 class="ah1 ah1-with-blurb"><b style="font-family: Gotham Medium, sans-serif;">Austin Digital Twin</b></h1>
+        <div class="text-block-56 p-lead text-center hero-blurb">
+            Collaborating to Create a Digital Twin for Austin, Texas
+        </div>
+    </div>
+    <div class="hero-image">
+        <img src="dto2.webp" loading="lazy" width="70" alt="" class="hero-image">
+    </div>
+</section>
+
+<style>
+    .section-container.about-us-intro {
+    background-image: url("utaustinfire.png");
+    margin-top:20px;
+    background-position: 100%;
+    background-repeat: no-repeat;
+    background-size: contain;
+    }
+    @media screen and (max-width: 767px) {
+        .image-57.hide {
+            opacity: 1;
+            margin-top: -3rem;
+            display: block;
+            margin-top: 20px;
+            margin-bottom:10px;
+        }
+    }
+</style>
+
+<div class="w-layout-blockcontainer section-container about-us-intro about-us-intro-medium-down-hide w-container">
+    <div class="w-layout-grid grid-15">
+        <div class="text-block-56 ap-lead text-left">
+            The Austin Digital Twin presents an extraordinary achievement, manifesting as an interactive, real-time 3D map that faithfully mirrors the dynamic cityscape of Austin. Through this cutting-edge digital representation, we immerse ourselves in an unparalleled perspective of the city, gaining immediate insights into critical aspects such as fires, police activity, and live traffic data. The fusion of these real-time streams empowers residents and authorities alike to navigate the urban landscape with an unprecedented level of awareness. With the Austin Digital Twin, we step into a realm where swift, informed decisions are at our fingertips, transforming urban management and public safety strategies. This innovation epitomizes the future of urban technology, where actionable intelligence meets the evolving urban fabric.
+        </div>
+        <img src="utaustinfire.png"
+            loading="lazy" id="w-node-e8b7831a-c14a-1d31-d55a-173e1aaeaee1-1474f3d7" alt="" class="image-57 hide">
+    </div>
+</div>
+
+<div class="w-layout-blockcontainer section-container w-container">
+    <div class="w-layout-grid grid-1-lead-p">
+        <div id="w-node-_93f7bc3e-d98e-9ffb-387e-85523a6fb5af-1474f3d7" class="center-plead">
+            <h2 class="ah2">Collaborative Endeavors</h2>
+            <div id="w-node-_93f7bc3e-d98e-9ffb-387e-85523a6fb5b0-1474f3d7" class="text-block-56 ap-lead text-center">
+                The Austin Digital Twin is a result of the combined efforts of the University of Texas, the Urban Information Lab,
+                the City of Austin, and the TeXuS Lab. Together, we aim to use advanced technologies and data analysis to create a
+                comprehensive digital representation of Austin, Texas. This initiative will enhance our understanding of urban dynamics
+                and contribute to the development of resilient and sustainable urban systems.
+            </div>
+        </div>
+    </div>
+</div>
+
+<section class="cta-contact-footer">
+    <div id="w-node-cd6db60e-bf8c-93d5-2bf3-f271e35286d5-ceef7f99" class="w-layout-blockcontainer contact-container w-container">
+        <div class="w-layout-grid grid-cta-container">
+            <div id="w-node-f89b172d-4ed0-5f6f-e89d-6a441dfd2ce8-ceef7f99" class="div-block-80">
+                <h1 id="w-node-_7761400f-6553-d44f-4c2a-15d071e63ace-ceef7f99" class="ah2-cta">Join us in shaping the future of urban technology!</h1>
+                <a id="w-node-_10e30bc3-c082-8dff-323a-5ced697d2766-ceef7f99" href="/contact-us"
+                    class="primary-button w-button">Get Involved</a>
+            </div>
+            <img src="austin.png"
+                loading="lazy" id="w-node-c382def6-3fba-c789-c225-00d325538b7b-ceef7f99"
+                sizes="(max-width: 479px) 170px, (max-width: 767px) 70vw, (max-width: 991px) 34vw, (max-width: 1439px) 316.8828125px, 299.75px"
+                alt="" class="image-39">
+        </div>
+    </div>
+</section>
+
+
+
+<section class="footer-dark">
+    <div class="w-layout-blockcontainer content-container w-container">
+        <div id="footer" class="footer-grid w-row">
+            <div class="column w-col w-col-3"><img style="max-width:200px;" src="https://sites.utexas.edu/uil/files/2020/05/UIL-Final-Logos-07.png" loading="lazy" alt="" class="logo-footer">
+                <div class="footer-logo-tag">Austin Digital Twin</div>
+            </div>
+            <div class="column-4 w-col w-col-9">
+                <div class="w-layout-grid footer-link-grid">
+                    <div id="w-node-fad7ff8b-cd38-ef03-41b5-a5bc27e06484-1abf70d9">
+                        <div id="w-node-_6a13daa9-351f-0542-ee43-9128a861f12e-1abf70d9" class="footer-link-head">Fire</div><a href="/solutions/trailer-unloading" class="footer-link">Austin Fire Department</a><a href="/solutions/case-picking" class="footer-link">MITRE Corporation</a><a href="/solutions/palletization" class="footer-link">TexUS Lab</a><a href="/solutions/machine-tending" class="footer-link">D4AI Lab</a><a href="/solutions/workcell-delivery" class="footer-link">Good Systems</a>
+                    </div>
+                    <div id="w-node-_1a6ec835-4800-dcf1-5710-71d31f1f9e2a-1abf70d9">
+                        <div id="w-node-_1a6ec835-4800-dcf1-5710-71d31f1f9e2b-1abf70d9" class="footer-link-head">Crime</div><a href="/industries/3pl" class="footer-link">Austin Police Department</a><a href="/industries/retail" class="footer-link">Campus Ambassadors</a><a href="/industries/manufacturing" class="footer-link">NSF</a>
+                    </div>
+                    <div id="w-node-d497642d-f8d9-9e48-f405-1c3d3ad0bcba-1abf70d9">
+                        <div id="w-node-d497642d-f8d9-9e48-f405-1c3d3ad0bcbb-1abf70d9" class="footer-link-head">Traffic</div><a href="/product-page" class="footer-link">Texas Traffic Cameras</a>
+                    </div>
+                    <div id="w-node-d1b0f731-ab82-b82f-89b6-8d61c9b9c353-1abf70d9">
+                        <div id="w-node-d1b0f731-ab82-b82f-89b6-8d61c9b9c354-1abf70d9" class="footer-link-head">EMS</div><a href="/videos" class="footer-link">Planet Texas 2050</a><a href="/blog-page" class="footer-link">Department of Statistics</a>
+                    </div>
+                    <div id="w-node-_1fe608a5-61cf-0f3d-1d95-56bf80125bfb-1abf70d9">
+                        <div id="w-node-_1fe608a5-61cf-0f3d-1d95-56bf80125bfc-1abf70d9" class="footer-link-head">About</div><a href="/about-us-2" aria-current="page" class="footer-link w--current">About Us</a><a href="/our-work-3" class="footer-link">Our Work</a><a href="/news2" class="footer-link">In the News</a><a href="#" class="footer-link">Contact Us</a><a href="/press-release" class="footer-link">Press Releases</a><a href="/leadership" class="footer-link">Leadership</a><a href="/careers" class="footer-link">Careers</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="w-layout-grid copyright-grid">
+            <p id="w-node-_7624914d-1515-5213-0b2d-e85a23d8d254-1abf70d9" class="footer-text">© 2023 URBAN INFORMATION LAB </p>
+            <div id="w-node-_5b1b6622-5d63-3791-9af4-033946ea8f5a-1abf70d9" class="social-container w-clearfix"><a href="https://twitter.com/urbaninfolab" target="_blank" class="social-link twitter-white"></a><a href="https://www.youtube.com/urbaninfolab" target="_blank" class="social-link youtube-white"></a><a href="https://www.linkedin.com/company/urban-information-lab/" target="_blank" class="social-link linkedin-white"></a></div>
+            <div id="w-node-f34dc010-774b-cf66-252f-888030d50b2b-1abf70d9" class="sub-footer-links w-clearfix"><a href="/privacy-policy" class="footer-link-sub">Privacy Policy</a><a id="w-node-_1c377b64-c264-0ec6-cf48-32bf41187e83-1abf70d9" href="/terms-of-use" class="footer-link-sub">Terms of Use</a></div>
+        </div>
+    </div>
+</section>
 
 </body>
+
 </html>
