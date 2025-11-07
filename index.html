@@ -73,6 +73,203 @@
     <meta name="theme-color" content="#ffffff">
 
     <link rel="stylesheet" href="style_minified.css">
+    <style>
+        /* Mobile navigation bar optimized styles */
+        @media screen and (max-width: 991px) {
+            /* Ensure mobile menu button is visible */
+            .navbar-logo-left-container .w-nav-button {
+                display: block !important;
+            }
+            
+            /* Mobile menu expanded styles */
+            .w-nav-menu[data-nav-menu-open] {
+                background-color: #fff;
+                box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+                padding: 20px 0;
+                max-height: calc(100vh - 8vh);
+                overflow-y: auto;
+                position: fixed;
+                top: 8vh;
+                left: 0;
+                right: 0;
+                width: 100vw;
+                z-index: 200;
+                animation: slideDown 0.3s ease-out;
+            }
+            
+            @keyframes slideDown {
+                from {
+                    opacity: 0;
+                    transform: translateY(-20px);
+                }
+                to {
+                    opacity: 1;
+                    transform: translateY(0);
+                }
+            }
+            
+            /* Mobile navigation menu item styles */
+            .nav-button-pc {
+                flex-direction: column;
+                align-items: stretch;
+                padding: 0;
+                background-color: #fff;
+            }
+            
+            .nav-button-pc .list-item-copy {
+                width: 100%;
+                border-bottom: 1px solid #f0f0f0;
+            }
+            
+            /* Mobile dropdown menu item link styles */
+            .nav-button-pc .text-block-5-copy {
+                display: block;
+                width: 100%;
+                padding: 15px 20px;
+                color: #1c0f0f;
+                text-decoration: none;
+                font-size: 16px;
+                font-weight: 500;
+                transition: background-color 0.3s ease;
+            }
+            
+            .nav-button-pc .text-block-5-copy:hover {
+                background-color: #f8f8f8;
+            }
+            
+            /* Hide dropdown submenus on mobile (simplified mobile experience) */
+            .nav-button-pc .dropdown-list {
+                display: none !important;
+            }
+            
+            /* Mobile Contact Us button styles */
+            .mobile-getstarted {
+                width: 100%;
+                padding: 20px;
+                background-color: #fff;
+                border-top: 1px solid #f0f0f0;
+            }
+            
+            .mobile-getstarted .button-primary {
+                width: 100%;
+                text-align: center;
+                padding: 15px 20px;
+            }
+            
+            /* Hide PC Contact Us button on mobile */
+            .pc-get-started-link {
+                display: none !important;
+            }
+            
+            /* Mobile menu button style optimization */
+            .menu-button-2 {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                background-color: transparent;
+                border: none;
+                cursor: pointer;
+                width: 40px;
+                height: 40px;
+                position: relative;
+            }
+            
+            /* Create hamburger icon using CSS (three horizontal lines) */
+            .menu-button-2 .hamburger-icon {
+                width: 24px;
+                height: 18px;
+                position: relative;
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+            }
+            
+            .menu-button-2 .hamburger-icon span {
+                display: block;
+                height: 2px;
+                width: 100%;
+                background-color: #000;
+                border-radius: 2px;
+                transition: all 0.3s ease;
+            }
+            
+            /* Transform to X when menu is open */
+            .menu-button-2.w--open .hamburger-icon span:nth-child(1) {
+                transform: translateY(8px) rotate(45deg);
+                background-color: #fff;
+            }
+            
+            .menu-button-2.w--open .hamburger-icon span:nth-child(2) {
+                opacity: 0;
+            }
+            
+            .menu-button-2.w--open .hamburger-icon span:nth-child(3) {
+                transform: translateY(-8px) rotate(-45deg);
+                background-color: #fff;
+            }
+            
+            .menu-button-2.w--open {
+                background-color: #f34c1b;
+                color: #fff;
+            }
+            
+            /* Mobile navigation bar overlay styles */
+            .w-nav-overlay {
+                background-color: rgba(0, 0, 0, 0.5);
+                z-index: 199;
+                position: fixed;
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                width: 100vw;
+                height: 100vh;
+                animation: fadeIn 0.3s ease-out;
+            }
+            
+            @keyframes fadeIn {
+                from {
+                    opacity: 0;
+                }
+                to {
+                    opacity: 1;
+                }
+            }
+            
+            /* Ensure mobile menu displays correctly when expanded */
+            .w-nav[data-animation="default"] .w-nav-menu[data-nav-menu-open] {
+                display: block !important;
+            }
+        }
+        
+        /* Further optimization for small screen devices */
+        @media screen and (max-width: 767px) {
+            .nav-button-pc .text-block-5-copy {
+                padding: 18px 20px;
+                font-size: 15px;
+            }
+            
+            .brand-logo {
+                max-width: 150px;
+            }
+        }
+        
+        /* Optimization for extra small screen devices */
+        @media screen and (max-width: 479px) {
+            .nav-button-pc .text-block-5-copy {
+                padding: 16px 15px;
+                font-size: 14px;
+            }
+            
+            .brand-logo {
+                max-width: 120px;
+            }
+            
+            .menu-button-2 {
+                padding: 10px;
+            }
+        }
+    </style>
 </head>
 
 <!-- Google tag (gtag.js) -->
@@ -271,7 +468,11 @@
                         <li class="pc-getstarted-copy"><a href="https://sites.utexas.edu/uil/contact-us/" class="button-primary w-button">Contact Us</a></li>
                     </ul>
                     <div class="menu-button-2 w-nav-button" style="-webkit-user-select: text;" aria-label="menu" role="button" tabindex="0" aria-controls="w-nav-overlay-0" aria-haspopup="menu" aria-expanded="false">
-                        <div class="icon-2 w-icon-nav-menu"></div>
+                        <div class="icon-2 hamburger-icon">
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -418,6 +619,82 @@
         </div>
     </div>
 </section>
+
+<!-- Mobile navigation menu JavaScript -->
+<script>
+    // Mobile navigation menu expand/collapse functionality
+    (function() {
+        const navButton = document.querySelector('.menu-button-2');
+        const navMenu = document.querySelector('.nav-menu-wrapper-2');
+        const navOverlay = document.querySelector('.w-nav-overlay');
+        const navContainer = document.querySelector('.navbar-logo-left-container');
+        
+        if (navButton && navMenu && navOverlay) {
+            // Toggle menu state
+            function toggleMenu() {
+                const isOpen = navButton.classList.contains('w--open');
+                
+                if (isOpen) {
+                    // Close menu
+                    navButton.classList.remove('w--open');
+                    navButton.setAttribute('aria-expanded', 'false');
+                    navMenu.removeAttribute('data-nav-menu-open');
+                    navOverlay.style.display = 'none';
+                    document.body.style.overflow = '';
+                } else {
+                    // Open menu
+                    navButton.classList.add('w--open');
+                    navButton.setAttribute('aria-expanded', 'true');
+                    navMenu.setAttribute('data-nav-menu-open', '');
+                    navOverlay.style.display = 'block';
+                    document.body.style.overflow = 'hidden';
+                }
+            }
+            
+            // Click menu button
+            navButton.addEventListener('click', function(e) {
+                e.preventDefault();
+                e.stopPropagation();
+                toggleMenu();
+            });
+            
+            // Click overlay to close menu
+            navOverlay.addEventListener('click', function() {
+                if (navButton.classList.contains('w--open')) {
+                    toggleMenu();
+                }
+            });
+            
+            // Close menu after clicking menu item (mobile)
+            if (window.innerWidth <= 991) {
+                const menuLinks = navMenu.querySelectorAll('.text-block-5-copy');
+                menuLinks.forEach(function(link) {
+                    link.addEventListener('click', function() {
+                        // Delay closing to ensure link navigation works properly
+                        setTimeout(function() {
+                            if (navButton.classList.contains('w--open')) {
+                                toggleMenu();
+                            }
+                        }, 100);
+                    });
+                });
+            }
+            
+            // Close mobile menu when window resizes to desktop size
+            window.addEventListener('resize', function() {
+                if (window.innerWidth > 991) {
+                    if (navButton.classList.contains('w--open')) {
+                        navButton.classList.remove('w--open');
+                        navButton.setAttribute('aria-expanded', 'false');
+                        navMenu.removeAttribute('data-nav-menu-open');
+                        navOverlay.style.display = 'none';
+                        document.body.style.overflow = '';
+                    }
+                }
+            });
+        }
+    })();
+</script>
 
 </body>
 
